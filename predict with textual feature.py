@@ -17,6 +17,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_val_score
+import eli5
+from eli5.sklearn import PermutationImportance
 
 RAW_DATA_FILEPATH = '/users/eric/PycharmProjects/testico/api_data.json'
 URL_FILEPATH = '/users/eric/PycharmProjects/testico/ico_urls.txt'
@@ -46,3 +48,6 @@ xgbc = model.fit(x_train, y_train)
 scores = cross_val_score(xgbc, traindata, testdata, cv=10)
 print(scores)
 print(np.mean(scores))
+
+# perm = PermutationImportance(xgbc).fit(val_X, val_y)
+# eli5.show_weights(perm, feature_names = val_X.columns.tolist())
