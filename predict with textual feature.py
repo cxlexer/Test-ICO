@@ -28,9 +28,12 @@ NUMERICAL_DATA_FILE = '/users/eric/PycharmProjects/testico/full_num.csv'
 TEXT_DATA_FILE = '/users/eric/PycharmProjects/testico/textfeature_dataframe.csv'
 
 tdd = pd.read_csv(TEXT_DATA_FILE)
+
 train, test = train_test_split(tdd, test_size=0.33)
+
 array_train = train.values
 array_test = test.values
+
 x_train = array_train[:, 0:-1]
 y_train = array_train[:, -1]
 x_test = array_test[:, 0:-1]
@@ -49,5 +52,3 @@ scores = cross_val_score(xgbc, traindata, testdata, cv=10)
 print(scores)
 print(np.mean(scores))
 
-# perm = PermutationImportance(xgbc).fit(val_X, val_y)
-# eli5.show_weights(perm, feature_names = val_X.columns.tolist())
