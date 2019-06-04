@@ -54,3 +54,4 @@ cols_to_use = api_df.columns.difference(scraped_data.columns)
 
 fulldata = pd.merge(scraped_data, api_df[cols_to_use], left_index=True, right_index=True, how='outer')
 fulldata.to_csv(FULLDATA_FILE)
+
