@@ -51,25 +51,25 @@ y_test = array_test[:, -1]
 
 model = XGBClassifier()
 model.fit(x_train, y_train)
-
-y_pred = model.predict(x_test)
-accuracy = accuracy_score(y_test, y_pred)
-print(accuracy)
+#
+# y_pred = model.predict(x_test)
+# accuracy = accuracy_score(y_test, y_pred)
+# print(accuracy)
 
 logmodel = LogisticRegression()
 logmodel.fit(train_X,train_y )
 
 
 # cross-validation with 10folds
-scores2 = cross_val_score(my_model, X, y, cv=10)
-print(np.mean(scores2))
+RFCscores = cross_val_score(my_model, X, y, cv=10)
+print(np.mean(RFCscores))
 
 fullvalue = full_num .values
 traindata = fullvalue[:, 0:-1]
 testdata = fullvalue[:, -1]
 xgbc = model.fit(x_train, y_train)
-scores = cross_val_score(xgbc, traindata, testdata, cv=10)
-print(np.mean(scores))
+XGBscores = cross_val_score(xgbc, traindata, testdata, cv=10)
+print(np.mean(XGBscores))
 
-scores3 = cross_val_score(logmodel, X, y, cv=10)
-print(np.mean(scores3))
+LRscores = cross_val_score(logmodel, X, y, cv=10)
+print(np.mean(LRscores))

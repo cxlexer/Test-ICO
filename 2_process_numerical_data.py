@@ -9,6 +9,7 @@ TOKEN_FILE = '/users/eric/PycharmProjects/testico/token.csv'
 FULLDATA_FILE = '/users/eric/PycharmProjects/testico/fulldata.csv'
 
 
+
 NUMERICAL_DATA_FILE = '/users/eric/PycharmProjects/testico/full_num.csv'
 TEXT_DATA_FILE = '/users/eric/PycharmProjects/testico/textfeature_dataframe.csv'
 
@@ -35,7 +36,7 @@ full_num['start_time'] = pd.to_datetime(full_num['start_time'])
 full_num['Total days'] = (full_num['end_time'] - full_num['start_time']).dt.days
 full_num = full_num.drop(['end_time', 'start_time'], axis=1)
 full_num = full_num[['ROI', 'Country', 'Initial Token Price', 'Platform',
-                     'price_usd', 'Total days']]
+                     'price_usd', 'Total days','Github URL']]
 
 full_num = pd.get_dummies(full_num, columns=['Country', 'Platform'], drop_first=True)
 
@@ -54,8 +55,17 @@ def binarize_roi(roi):
         return 0
 
 
+def binarized_github(git):
+    if pd.isna(git):
+        return 0
+    else:
+        return 1
+
+full_num['binarize_Git'] = full_num['Github URL'].apply(binarized_github)
 full_num['binary_ROI'] = full_num['ROI'].apply(binarize_roi)
 
+
+full_num = full_num.drop('Github URL', axis=1)
 full_num = full_num.drop('ROI', axis=1)
 full_num.to_csv(NUMERICAL_DATA_FILE)
 
