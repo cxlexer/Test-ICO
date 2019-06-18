@@ -1,0 +1,744 @@
+Accepted Currencies,Coin Symbol,Country,Funding Goal,Funds in Escrow?,Github URL,Have Prototype?,Initial Token Price,Official Website,Platform,Pre-ICO Dates,Price Now,ROI,Restricted Countries,Total Raised,Total Tokens,name,url
+,REP,Unknown,,No,https://github.com/AugurProject,,$0.5800,https://www.augur.net/,Ethereum,,$15.43,"2,560.43%",United States,"$5,100,000",,augur,https://icowatchlist.com/ico/augur
+,LSK,Germany,,No,https://github.com/LiskHQ,,$0.0747,https://lisk.io/,Not Available,,$1.64,"2,095.79%",United States,"$6,350,000",,lisk,https://icowatchlist.com/ico/lisk
+,DGD,Singapore,,No,https://github.com/digixglobal,,$3.2400,https://www.dgx.io/dgd/,Ethereum,,$19.47,500.93%,United States,"$5,500,000",,digixdao,https://icowatchlist.com/ico/digixdao
+,WAVES,Unknown,,No,https://github.com/WAVESPLATFORM/,,$0.1880,https://wavesplatform.com/,Waves,,$2.84,"1,409.15%",United States,"$16,010,000",,waves,https://icowatchlist.com/ico/waves
+,STRAT,United Kingdom,,No,,,$0.0073,https://stratisplatform.com/,Stratis,,$0.97,"13,067.75%",United States,"$590,000",,stratis,https://icowatchlist.com/ico/stratis
+,XTO,United States,,No,,,$0.0100,http://tao.network/,Not Available,,$0.18,,United States,,,taonetwork,https://icowatchlist.com/ico/taonetwork
+,INCNT,Australia,,No,,,$0.0470,http://incent.bitscan.com/,Waves,,$0.14,205.74%,United States,"$1,100,000",,incent,https://icowatchlist.com/ico/incent
+,NEO,China,,No,,,$0.1590,https://neo.org/,NEO,,$9.34,"5,772.86%",United States,"$3,800,000",,neo,https://icowatchlist.com/ico/neo
+,BLOCKPAY,Denmark,,No,,,$0.1240,https://blockpay.ch/,Bitcoin Fork,,$0.03,,United States,,,blockpay,https://icowatchlist.com/ico/blockpay
+,1ST,United States,,No,https://github.com/firstbloodio,,$0.0692,https://firstblood.io/,Ethereum,,$0.05,-23.72%,United States,"$5,500,000",,firstblood,https://icowatchlist.com/ico/firstblood
+,ICN,Unknown,,No,,,$0.1200,https://www.iconomi.net/,Ethereum,,$0.12,-3.42%,United States,"$10,680,000",,iconomi,https://icowatchlist.com/ico/iconomi
+,LKK,Switzerland,,No,https://github.com/LykkeCity/,,$0.0500,https://www.lykke.com/,Blockchain,,$0.02,-53.84%,United States,"$1,200,000",,lykke,https://icowatchlist.com/ico/lykke
+,AMP,Israel,,No,https://github.com/synereo,,$0.1597,https://www.synereo.com/,Not Available,,$0.02,-88.32%,United States,"$4,700,000",,synereo,https://icowatchlist.com/ico/synereo
+,SNGLS,United States,,No,https://github.com/ConsenSys/singulardtv-contracts,,$0.0150,https://singulardtv.com/,Ethereum,,$0.02,21.93%,United States,"$7,500,000",,singulardtv,https://icowatchlist.com/ico/singulardtv
+,NXC,Unknown,,No,,,$0.0100,http://beyond-the-void.net/,Ethereum,,,,United States,"$400,000",,beyondthevoid,https://icowatchlist.com/ico/beyondthevoid
+,DCT,Switzerland,,No,,,$0.1183,http://decent.ch/,Not Available,,$0.07,-39.53%,United States,"$4,130,000",,decent,https://icowatchlist.com/ico/decent
+,GNT,Poland,,No,https://github.com/golemfactory/golem,,$0.1040,https://golem.network/,Ethereum,,$0.08,-18.44%,United States,"$8,600,000",,golem,https://icowatchlist.com/ico/golem
+,ARK,United States,,No,https://github.com/arkecosystem,,$0.0100,https://ark.io/,Blockchain,,$0.67,"6,615.76%",United States,"$998,000",,ark,https://icowatchlist.com/ico/ark
+,VSLICE,Unknown,,No,,,$0.0000,https://www.vdice.io/,Ethereum,,,,United States,,,vdiceio,https://icowatchlist.com/ico/vdiceio
+,KMD,Unknown,,No,,,$0.0220,https://komodoplatform.com/,Blockchain,,$1.11,"4,925.24%",United States,"$1,980,000",,komodo,https://icowatchlist.com/ico/komodo
+,Golos,Russian Federation,,No,,,$0.0100,https://golos.io/about,Not Available,,,,United States,"$462,000",,golos,https://icowatchlist.com/ico/golos
+,CREA,Spain,,No,https://github.com/creativechain,,$0.0246,https://creativechain.org/,Blockchain,,$0.01,-53.01%,United States,"$300,000",,creativecoin,https://icowatchlist.com/ico/creativecoin
+,WINGS,Russian Federation,,No,,,$0.0260,https://wings.ai/,Rootstock,,$0.05,76.15%,United States,"$2,000,000",,wings,https://icowatchlist.com/ico/wings
+,TKS,United States,,No,,,$0.1622,http://cannabisrevolution.us/,Waves,,$0.31,90.44%,United States,"$81,100",,tokes,https://icowatchlist.com/ico/tokes
+,TIME,Australia,,No,https://github.com/ChronoBank,,$30.0000,http://chronobank.io/,Ethereum,,$1.79,-94.03%,United States,"$5,400,000",,chronobank,https://icowatchlist.com/ico/chronobank
+,QTUM,China,,No,https://github.com/qtumproject/,,$0.1500,https://qtum.org/,Blockchain,,$2.58,"1,619.66%",United States,"$15,000,000",,qtum,https://icowatchlist.com/ico/qtum
+,EDG,Lithuania,,No,https://github.com/EdgelessCasino,,$0.0220,https://edgeless.io/,Ethereum,,$0.12,467.73%,United States,"$2,650,000",,edgeless,https://icowatchlist.com/ico/edgeless
+,RLC,France,,No,,,$0.2500,http://iex.ec/,Ethereum,,$0.43,73.20%,United States,"$12,160,000",,iexec,https://icowatchlist.com/ico/iexec
+,ETT,Russian Federation,,No,,,$0.0632,https://encryptotel.com/,Waves,,$0.01,-83.04%,United States,"$4,430,000",,encryptotel,https://icowatchlist.com/ico/encryptotel
+,GNO,United States,,No,https://github.com/ConsenSys/gnosis.js,,$31.2800,https://gnosis.pm/,Ethereum,,$15.12,-51.66%,United States,"$12,500,000",,gnosis,https://icowatchlist.com/ico/gnosis
+,MGO,Serbia,,No,,,$0.5300,https://mobilego.io/,Ethereum,,$0.11,-78.62%,United States,"$53,070,000",,mobilego,https://icowatchlist.com/ico/mobilego
+,HMQ,Luxembourg,,No,https://github.com/humaniq,,$0.0035,https://humaniq.co/,Ethereum,,$0.01,206.00%,United States,"$5,160,000",,humaniq,https://icowatchlist.com/ico/humaniq
+,LUN,United States,,No,https://github.com/lunyr,,$1.6100,https://lunyr.com/,Ethereum,,$2.75,70.81%,United States,"$3,400,000",,lunyr,https://icowatchlist.com/ico/lunyr
+,TAAS,Singapore,,No,,,$1.0000,https://taas.fund/,Ethereum,,$0.30,-70.19%,United States,"$7,570,000",,taas,https://icowatchlist.com/ico/taas
+,BPL,Unknown,,No,,,$0.2200,https://blockpool.io/,Blockchain,,$0.01,,United States,,,blockpool,https://icowatchlist.com/ico/blockpool
+,TKN,Switzerland,,No,,,$0.5400,http://tokencard.io/,Ethereum,,$0.56,2.78%,United States,"$12,700,000",,tokencard,https://icowatchlist.com/ico/tokencard
+,ECOB,Unknown,,No,,,$0.0100,http://www.ecobit.io/,Not Available,,$0.00,-73.21%,United States,"$4,500,000",,ecobit,https://icowatchlist.com/ico/ecobit
+,BOS,Unknown,,No,https://github.com/owlchain/owlchain-core,,$0.0434,https://www.boscoin.io/,Not Available,,$0.02,-61.57%,United States,"$12,200,000",,boscoin,https://icowatchlist.com/ico/boscoin
+,BCAP,United States,,No,,,$1.0000,http://blockchain.capital/,Not Available,,$0.89,-11.15%,United States,"$10,000,000",,blockchaincapital,https://icowatchlist.com/ico/blockchaincapital
+,ZRC,Unknown,,No,,,$1.4000,https://zrcoin.io/,Waves,,$1.92,37.14%,United States,"$7,070,000",,zrcoin,https://icowatchlist.com/ico/zrcoin
+,AE,Liechtenstein,,No,,,$0.1950,https://www.aeternity.com/,Blockchain,,$0.48,145.27%,United States,"$24,990,000",,aeternity,https://icowatchlist.com/ico/aeternity
+,ETB,United Kingdom,,No,,,$0.8800,https://ico.ethbits.com/,Ethereum,,$0.00,-99.99%,United States,"$1,200,000",,ethbits,https://icowatchlist.com/ico/ethbits
+,PPY,Unknown,,No,,,$4.6000,http://www.peerplays.com,Bitcoin Fork,,$0.73,-84.06%,United States,"$4,500,000",,peerplays,https://icowatchlist.com/ico/peerplays
+,ANT,Spain,,No,https://github.com/aragon,,$0.9090,https://aragon.one/,Ethereum,,$0.51,-43.54%,United States,"$25,000,000",,aragon,https://icowatchlist.com/ico/aragon
+,MCO,Unknown,,No,,,$2.6400,https://mona.co/,Ethereum,,$3.49,,United States,,,monaco,https://icowatchlist.com/ico/monaco
+,SJCX,United States,,No,,,$0.2920,https://storj.io,Ethereum,,$0.20,-31.03%,United States,"$30,000,000",,storj,https://icowatchlist.com/ico/storj
+,CVCOIN,Russian Federation,,No,,,$0.3862,https://ico.crypviser.net/,Bitcoin Fork,,$0.20,-47.90%,United States,"$3,870,000",,crypviser,https://icowatchlist.com/ico/crypviser
+,QRL,Unknown,,No,https://github.com/theQRL,,$0.0640,https://theqrl.org/,Not Available,,$0.16,153.59%,United States,"$4,160,000",,quantumrl,https://icowatchlist.com/ico/quantumrl
+,PING,Unknown,,No,,,$0.2778,https://cryptoping.tech/,Waves,,$0.03,-89.66%,United States,"$2,500,000",,cryptoping,https://icowatchlist.com/ico/cryptoping
+,ADL,Unknown,,No,,,$0.0295,https://www.adelphoi.io/,Not Available,,$0.01,-61.10%,United States,"$1,050,000",,adelphoi,https://icowatchlist.com/ico/adelphoi
+,VERI,United States,,No,,,$12.0000,http://veritas.veritaseum.com/,Ethereum,,$18.24,52.00%,United States,"$12,000,000",,veritaseum,https://icowatchlist.com/ico/veritaseum
+,MYST,Lithuania,,No,https://github.com/MysteriumNetwork,,$0.8850,https://mysterium.network/,Ethereum,,$0.06,-93.75%,United States,"$14,400,000",,mysterium,https://icowatchlist.com/ico/mysterium
+,EON,Unknown,,No,,,$0.0000,https://exscudo.com/,Blockchain,,,,United States,,,exscudo,https://icowatchlist.com/ico/exscudo
+,PTOY,United States,,No,,,$0.1453,http://www.patientory.com/,Ethereum,,$0.02,-87.52%,United States,"$10,170,000",,patientory,https://icowatchlist.com/ico/patientory
+,BAT,United States,,No,,,$0.3600,https://basicattentiontoken.org/index/,Ethereum,,$0.23,-35.95%,United States,"$36,000,000",,basicattentiontoken,https://icowatchlist.com/ico/basicattentiontoken
+,WGR,Unknown,,No,,,$0.0550,http://www.wagerr.com/,Waves,,$0.08,36.62%,United States,"$6,380,000",,wagerr,https://icowatchlist.com/ico/wagerr
+,NVST,Canada,,No,,,$0.2720,https://nvo.io/,Maidsafe,,$0.45,65.20%,United States,"$4,000,000",,nvo,https://icowatchlist.com/ico/nvo
+,XID,United Kingdom,,No,,,$0.1887,http://www.sphre.co,Hyperledger,,$0.02,-88.07%,United States,"$5,110,000",,sphre,https://icowatchlist.com/ico/sphre
+,DRP,Unknown,,No,,,$0.7607,https://www.dcorp.it/,Ethereum,,$0.18,-75.75%,United States,"$5,050,000",,dcorp,https://icowatchlist.com/ico/dcorp
+,WTT,United States,,No,,,$1.0000,https://cryptonomos.com/,Ethereum,,$0.02,,United States,,,giga-watt,https://icowatchlist.com/ico/giga-watt
+,VSM,Spain,,No,https://github.com/voiseit,,$1.7700,https://voise.it/,Not Available,,$2.58,45.76%,United States,"$1,360,000",,voise,https://icowatchlist.com/ico/voise
+,OMG,Singapore,,No,,,$0.2742,https://www.omise.co/,Ethereum,,$1.77,544.43%,United States,"$25,000,000",,omisego,https://icowatchlist.com/ico/omisego
+,BNT,Israel,,No,,,$3.8600,https://bancor.network/,Ethereum,,$0.63,-83.75%,United States,"$153,000,000",,bancor,https://icowatchlist.com/ico/bancor
+,FYN,Singapore,,No,,,$0.1535,https://www.katalyse.io/,Ethereum,,$0.12,-18.70%,United States,"$1,150,000",,fundyourselfnow,https://icowatchlist.com/ico/fundyourselfnow
+,MNX,Ukraine,,No,,,$12.4500,https://minexcoin.com/,Not Available,,$0.21,-98.34%,United States,"$745,940",,minexcoin,https://icowatchlist.com/ico/minexcoin
+,CMP,Unknown,,No,,,$12.0000,https://compcoin.com/,Blockchain,,$5.64,,United States,,,compcoin,https://icowatchlist.com/ico/compcoin
+,SNM,Russian Federation,,No,,,$0.0791,https://sonm.io/,Ethereum,,$0.03,-62.06%,United States,"$26,000,000",,sonm,https://icowatchlist.com/ico/sonm
+,SNT,Unknown,,No,,,$0.0366,https://status.im/,Ethereum,,$0.02,-36.23%,United States,"$102,000,000",,status,https://icowatchlist.com/ico/status
+,21MCoin,Unknown,,No,,,$0.0000,https://www.21million.co.uk/,Ethereum,,,,United States,,,21-million,https://icowatchlist.com/ico/21-million
+,BETH,Unknown,,No,,,$0.0000,https://beth.jp/,Not Available,,,,United States,,,beth,https://icowatchlist.com/ico/beth
+,OGC,Unknown,,No,,,$0.0000,https://onegram.org/,Not Available,,,,United States,,,onegram,https://icowatchlist.com/ico/onegram
+,CVC,United States,,No,,,$0.1000,https://www.civic.com/,Ethereum,,$0.08,-20.83%,United States,"$33,000,000",,civic,https://icowatchlist.com/ico/civic
+,HYBRID,Unknown,,No,,,$0.0000,https://coinstorm.net/en,Not Available,,,,United States,,,coinstorm,https://icowatchlist.com/ico/coinstorm
+,PBT,Unknown,,No,,,"$7,912.0000",http://primalbase.com/,Ethereum,,"$10,074.35",27.33%,United States,"$7,910,000",,primalbase,https://icowatchlist.com/ico/primalbase
+,ADT,United States,,No,https://github.com/adchain,,$0.0154,https://adtoken.com/,Ethereum,,$0.01,-52.37%,United States,"$7,700,000",,adtoken,https://icowatchlist.com/ico/adtoken
+,MYB,Unknown,,No,,,$2.0000,https://mybit.io/,Ethereum,,$0.01,-99.66%,United States,"$2,700,000",,mybit,https://icowatchlist.com/ico/mybit
+,BQX,Unknown,,No,,,$0.0754,https://www.bitquence.com/,Ethereum,,$0.16,,United States,,,bitquence,https://icowatchlist.com/ico/bitquence
+,SAN,Switzerland,,No,,,$0.2267,http://www.santiment.net/,Ethereum,,$0.49,114.38%,United States,"$10,200,000",,santiment,https://icowatchlist.com/ico/santiment
+,CFI,Sweden,,No,,,$0.1177,https://cofound.it/en/,Ethereum,,$0.01,-87.54%,United States,"$14,800,000",,cofoundit,https://icowatchlist.com/ico/cofoundit
+,MTL,United States,,No,,,$0.1800,https://www.metalpay.com/,Ethereum,,$0.37,103.89%,United States,"$9,000,000",,metal,https://icowatchlist.com/ico/metal
+,IXT,United Kingdom,,No,,,$0.0703,http://www.insurex.co/,Ethereum,,$0.02,-78.35%,United States,"$6,950,000",,insure-x,https://icowatchlist.com/ico/insure-x
+,XTZ,Switzerland,,No,https://github.com/tezos/tezos,,$0.4000,https://www.tezos.com/,Blockchain,,$0.73,81.80%,United States,"$232,000,000",,tezos,https://icowatchlist.com/ico/tezos
+,PPT,United Kingdom,,No,,,$0.2522,https://www.populous.world/,Ethereum,,$1.50,495.79%,United States,"$9,000,000",,populous,https://icowatchlist.com/ico/populous
+,PAY,Singapore,,No,,,$0.8300,https://www.tenx.tech,Ethereum,,$0.29,-65.64%,United States,"$80,000,000",,tenx,https://icowatchlist.com/ico/tenx
+,DENT,China,,No,,,$0.0005,https://www.dentcoin.com/,Ethereum,,$0.00,77.26%,United States,"$4,200,000",,dent,https://icowatchlist.com/ico/dent
+,DNT,Slovakia,,No,https://github.com/district0x,,$0.0157,https://district0x.io/,Ethereum,,$0.02,-0.64%,United States,"$9,410,000",,district0x,https://icowatchlist.com/ico/district0x
+,STX,Gibraltar,,No,,,$1.8600,https://www.stox.com/en/,Ethereum,,$0.02,-99.10%,United States,"$27,480,000",,stox,https://icowatchlist.com/ico/stox
+,CRS,Russian Federation,,No,,,$1.0000,https://startaico.com/,Waves,,$0.81,-18.91%,United States,"$5,060,000",,starta,https://icowatchlist.com/ico/starta
+,CABS,Taiwan,,No,,,"$1,000.0000",https://cryptoabs.com/,Ethereum,,,,United States,,,cryptoabs,https://icowatchlist.com/ico/cryptoabs
+,SUR,Unknown,,No,,,$20.5000,http://suretly.com/,Not Available,,$0.64,-96.88%,United States,"$2,630,000",,suretly,https://icowatchlist.com/ico/suretly
+,HVN,Unknown,,No,,,$0.0220,https://www.hive-project.net/,Not Available,,$0.00,-84.56%,United States,"$8,530,000",,hive,https://icowatchlist.com/ico/hive
+,XCJ,United States,,No,,,$0.2900,https://www.coinjob.net/,Ethereum,,,,United States,"$53,000",,coinjob,https://icowatchlist.com/ico/coinjob
+,CDT,Israel,,No,,,$0.0270,https://www.coindash.io/,Ethereum,,$0.01,-64.34%,United States,"$7,500,000",,coindash,https://icowatchlist.com/ico/coindash
+,MANA,Argentina,,No,https://github.com/decentraland,,$0.0250,https://decentraland.org/,Ethereum,,$0.07,190.75%,United States,"$26,290,000",,decentraland,https://icowatchlist.com/ico/decentraland
+,ZRX,United States,,No,https://github.com/0xProject,,$0.0480,https://www.0xproject.com/,Ethereum,,$0.30,521.56%,United States,"$24,000,000",,0x,https://icowatchlist.com/ico/0x
+,RVT,Unknown,,No,,,$0.2000,https://rivetzintl.com/,Not Available,,$0.05,-73.81%,United States,"$14,600,000",,rivet,https://icowatchlist.com/ico/rivet
+,ODN,United Kingdom,,No,,,$0.2500,https://obsidianplatform.com/,Stratis,,$0.00,,United States,,,obsidian,https://icowatchlist.com/ico/obsidian
+,COR,Unknown,,No,,,$1.0000,https://www.corion.io/,Ethereum Classic,,$0.05,-94.62%,United States,"$2,100,000",,corion,https://icowatchlist.com/ico/corion
+,MPRM,Switzerland,,No,,,$0.1000,http://imperium.network,Ethereum,,$0.00,,United States,,,imperium,https://icowatchlist.com/ico/imperium
+,XAI,Unknown,,No,,,$0.0000,https://www.aicoin.io/,Ethereum,,$0.05,,United States,,,aicoin,https://icowatchlist.com/ico/aicoin
+,ROC,Unknown,,No,,,$0.0000,https://ico.rasputinonline.com/,Ethereum,,$0.07,,United States,,,roc,https://icowatchlist.com/ico/roc
+,AHT,Unknown,,No,,,$0.6500,https://bowheadhealth.com/,Waves,,$0.03,,United States,,,bowhead,https://icowatchlist.com/ico/bowhead
+,ATB,Unknown,,No,,,$0.9000,https://atbcoin.com/,Not Available,,$0.01,-98.67%,United States,"$14,980,000",,atbcoin,https://icowatchlist.com/ico/atbcoin
+ETH,MTH,Lithuania,"$95,000",No,https://github.com/monetha,Yes,$0.1900,https://www.monetha.io/,Ethereum,,,,United States,"$37,000,000","200,000,000",monetha,https://icowatchlist.com/ico/monetha
+,BENJA,United States,,No,,,$0.0000,https://www.benjacoin.com/,Ethereum,,$0.01,,United States,,,benjacoin,https://icowatchlist.com/ico/benjacoin
+"BTC, ETH",TRX,China,"$70,000,000",No,https://github.com/tronprotocol,,$0.0019,https://tron.network/index?lng=en,Blockchain,,$0.02,"1,129.58%",United States,"$70,000,000","100,000,000,000",tron,https://icowatchlist.com/ico/tron
+,ARNA,Unknown,,No,,,$0.0000,https://projectarena.io/,Waves,,$0.00,,United States,,,arena,https://icowatchlist.com/ico/arena
+,SNP,Unknown,,No,,,$0.0000,https://ico.snapup.biz,Ethereum,,,,United States,,,snapup,https://icowatchlist.com/ico/snapup
+"BTC, ETH, ZEC, USD",FIL,Unknown,"$40,000,000",No,,,$5.0000,http://filecoin.io/,Not Available,,$2.85,-42.95%,United States,"$257,000,000",,filecoin,https://icowatchlist.com/ico/filecoin
+,HBT,Singapore,,No,,,$0.2000,https://www.hubii.network/,Ethereum,,$0.15,-26.60%,United States,"$6,560,000",,hubiinetwork,https://icowatchlist.com/ico/hubiinetwork
+,AHT,Unknown,,No,,,$0.1500,http://ahoolee.io,Ethereum,,$0.03,-79.96%,United States,"$153,600",,ahoolee,https://icowatchlist.com/ico/ahoolee
+,WILD,United States,,No,,,$0.1000,http://wildcrypto.com,Ethereum,,$0.00,,United States,,,wildcrypto,https://icowatchlist.com/ico/wildcrypto
+,AVT,United Kingdom,,No,https://github.com/AventusSystems,,$3.2600,https://aventus.io,Ethereum,,$0.22,-93.19%,United States,"$20,200,000",,aventus,https://icowatchlist.com/ico/aventus
+,DSR,Unknown,,No,,,$0.0000,https://www.daseron.com/,Ethereum,,$0.13,,United States,,,daseron,https://icowatchlist.com/ico/daseron
+,CSNO,Unknown,,No,,,$0.1505,https://www.bitdice.me/,Ethereum,,$0.03,,United States,,,bitdice,https://icowatchlist.com/ico/bitdice
+,ICOS,Unknown,,No,,,$32.0000,https://icobox.io/,Ethereum,,$1.02,-96.81%,United States,"$14,370,000",,icobox,https://icowatchlist.com/ico/icobox
+,KICK,Russian Federation,,No,https://github.com/kickico,,$0.0650,https://www.kickico.com,Ethereum,,$0.00,-94.80%,United States,"$22,340,000",,kickico,https://icowatchlist.com/ico/kickico
+,UMC,Unknown,,No,,,$0.0065,https://www.umbrellacoin.org/,Ethereum,,$0.00,-87.41%,United States,"$447,480",,umbrellacoin,https://icowatchlist.com/ico/umbrellacoin
+,KNC,Singapore,,No,https://github.com/kyberNetwork/,,$0.0000,https://kyber.network/,Ethereum,,$0.26,,United States,"$48,000,000",,kybernetwork,https://icowatchlist.com/ico/kybernetwork
+,ARI,Unknown,,No,,,$0.0000,https://www.becksang.com/,Not Available,,,,United States,,,becksang,https://icowatchlist.com/ico/becksang
+,DTCT,Poland,,No,,,$0.4300,https://detectortoken.com,Ethereum,,,,United States,,,detectortoken,https://icowatchlist.com/ico/detectortoken
+,KIN,Unknown,,No,,,$0.0001,https://kin.kik.com/,Ethereum,,$0.00,-58.39%,United States,"$98,000,000",,kin,https://icowatchlist.com/ico/kin
+,RCC,Unknown,,No,,,$0.0000,http://reality-clash.com/,Ethereum,,$0.07,,United States,,,realityclash,https://icowatchlist.com/ico/realityclash
+,JNT,Russian Federation,,No,,,$0.4500,http://jnet1.co/en,Waves,,$0.00,,United States,,,jnet1,https://icowatchlist.com/ico/jnet1
+,LTD,Singapore,,No,https://github.com/Litrafoundation,,$1.0000,http:/www.litra.site,Litecoin Fork,,"$236,016.00",,United States,,,litra,https://icowatchlist.com/ico/litra
+,AXION,Singapore,,No,,,$0.3000,http://www.AxionV.com,Ethereum,,,,United States,,,axionv,https://icowatchlist.com/ico/axionv
+,MPX,Canada,,No,,,$0.0000,https://ico.moneypot.com,Waves,,,,United States,,,moneypotx,https://icowatchlist.com/ico/moneypotx
+,PROFF,Russian Federation,,No,,,$0.0080,https://prover.io/,Ethereum,,,,United States,,,prover,https://icowatchlist.com/ico/prover
+,PST,Ireland,,No,,,$0.3000,httsp://planescloud.io,Ethereum,,$0.36,,United States,,,planescloud,https://icowatchlist.com/ico/planescloud
+,LUST,Germany,,No,,,$0.1000,https://lust.agency/,Ethereum,,,,United States,,,lustagency,https://icowatchlist.com/ico/lustagency
+,POWR,Australia,,No,,,$0.0880,https://powerledger.io,Ethereum,,$0.12,35.41%,United States,"$24,000,000",,powerledger,https://icowatchlist.com/ico/powerledger
+"BTC, ETH",DRT,France,,No,https://github.com/Domraider/dr-token,,$0.1200,https://www.domraider.io/,Ethereum,,$0.00,-98.32%,United States,"$65,890,000","45,000,000",domraider,https://icowatchlist.com/ico/domraider
+,STU,Israel,,No,,,$0.0200,https://bitjob.io/,Ethereum,,$0.00,-90.13%,United States,"$2,170,000","200,000,000",bitjob,https://icowatchlist.com/ico/bitjob
+,EVC,Canada,,No,https://github.com/eventchain,,$0.8700,https://eventchain.io/,Ethereum,,$0.01,-98.29%,United States,"$16,380,000",,eventchain,https://icowatchlist.com/ico/eventchain
+,HDG,Slovenia,,No,,,$0.3000,https://www.hedge-crypto.com/,Ethereum,,$0.19,-36.33%,United States,"$896,240",,hedgetoken,https://icowatchlist.com/ico/hedgetoken
+,PRG,United States,,No,,,$1.0000,https://paragoncoin.com/,Ethereum,,$0.14,-86.16%,United States,"$183,000,000",,paragoncoin,https://icowatchlist.com/ico/paragoncoin
+,DLT,New Zealand,,No,,,$0.0030,http://dlsacademy.io/,Ethereum,,$0.11,,United States,,,dlsacademy,https://icowatchlist.com/ico/dlsacademy
+,EBET,Isle of Man,,No,https://github.com/Ethbet/ethbet,,$0.2000,https://ethbet.io/,Ethereum,,$0.00,,United States,,,ethbet,https://icowatchlist.com/ico/ethbet
+,EDO,Switzerland,,No,,,$2.3000,https://www.eidoo.io,Ethereum,,$0.69,-70.03%,United States,"$24,660,000",,eidoo,https://icowatchlist.com/ico/eidoo
+,DIGI,United Kingdom,,No,,,$0.5000,https://www.digitoken.tech/,Ethereum,,,,United States,,,digi,https://icowatchlist.com/ico/digi
+,AIR,United States,,No,,,$0.0200,https://www.airtoken.com/,Ethereum,,$0.00,-91.61%,United States,"$15,000,000",,airtoken,https://icowatchlist.com/ico/airtoken
+ETH,LINK,United States,"$32,000,000",No,,,$0.1100,https://www.smartcontract.com/link,Ethereum,,,,United States,,"1,000,000,000",chainlink,https://icowatchlist.com/ico/chainlink
+,WIL,Russian Federation,,No,https://github.com/Lastwill-project,,$0.2000,http://www.mywillplatform.io,Ethereum,,,,United States,,,mywillplatform,https://icowatchlist.com/ico/mywillplatform
+,FYP,United Kingdom,,No,,,$0.0700,https://flyp.me,Ethereum,,$0.02,,United States,,,flypme,https://icowatchlist.com/ico/flypme
+ETH,COB,Taiwan,"$25,000,000",No,https://github.com/cobinhood/api-public,,$0.0516,https://cobinhood.com/home,Ethereum,,$0.01,-80.91%,"United States, Canada, China","$13,078,406","1,000,000,000",cobinhood,https://icowatchlist.com/ico/cobinhood
+,SSIO,Netherlands,,No,,,$1.7000,https://sexservice.io?ref=7GAY2VK,Blockchain,,,,United States,,,sexservice,https://icowatchlist.com/ico/sexservice
+,BKT,United Kingdom,,No,https://github.com/bookira?tab=repositories,,$0.2000,https://www.bookira.io/,Ethereum,,$0.00,,United States,,,bookira,https://icowatchlist.com/ico/bookira
+,VEE,United States,,No,https://github.com/BLOCKvIO/documentation,,$0.0200,http://t.blockv.io/icowatchlist,Ethereum,,$0.00,-76.83%,United States,"$21,500,000",,blockv,https://icowatchlist.com/ico/blockv
+,CHX,United States,,No,,,$0.0100,http://thechex.com/,Ethereum,,,,United States,,,chex,https://icowatchlist.com/ico/chex
+,KeY,Japan,,No,,,$0.0060,http://ico.keytoken-ew.com/en/,Ethereum,,,,United States,,,keytoken,https://icowatchlist.com/ico/keytoken
+,ASTRO,Switzerland,,No,,,$1.0000,http://www.astronaut.capital,Ethereum,,$0.30,,United States,,,astronaut,https://icowatchlist.com/ico/astronaut
+,POLL,Australia,,No,,,$0.1500,https://www.clearpoll.io,Hyperledger,,$0.12,,United States,,,clearpoll,https://icowatchlist.com/ico/clearpoll
+,SCT,Finland,,No,https://github.com/Soma-co,,$0.6700,http://soma.co/,Ethereum,,$0.00,,United States,,,soma,https://icowatchlist.com/ico/soma
+,SWM,Germany,,No,https://github.com/swarmfund,,$1.0000,https://swarm.fund,Ethereum,,$0.07,,United States,,,swarmfund,https://icowatchlist.com/ico/swarmfund
+,LPG,United Kingdom,,No,,,$1.0000,https://langpie.io/,Ethereum,,,,United States,,,langpie,https://icowatchlist.com/ico/langpie
+,LAB,United States,,No,https://www.github.com/expa  nse-org,,$0.0800,https://www.tokenlab.io,Blockchain,,$0.01,,United States,,,tokenlab,https://icowatchlist.com/ico/tokenlab
+,,,,,,,,,,,,,,,,granthero,https://icowatchlist.com/ico/granthero
+,CPAY,United Kingdom,,No,,,$0.2900,https://ico.cryptopay.me/#about,Ethereum,,$0.02,-93.16%,United States,"$18,000,000",,cryptopay,https://icowatchlist.com/ico/cryptopay
+,ARN,Russian Federation,,No,https://github.com/aeronaero/aeron,,$0.5000,https://aeron.aero/,Ethereum,,$0.46,,United States,,,aeron,https://icowatchlist.com/ico/aeron
+,ARX,Australia,,No,https://github.com/AssistiveReality/ico,,$0.0375,https://aronline.io/,Ethereum,,,,United States,,,assistivereality,https://icowatchlist.com/ico/assistivereality
+,BCOIN,United States,,No,,,$3.0000,http://www.bannercoin.com,Ethereum,,$0.33,,United States,,,bannercoin,https://icowatchlist.com/ico/bannercoin
+,ATL,Russian Federation,,No,https://github.com/atlantplatform,,$0.5900,https://atlant.io/,Ethereum,,$0.02,-96.58%,United States,"$6,500,000",,atlant,https://icowatchlist.com/ico/atlant
+,ALDO,United Kingdom,,No,,,$0.9700,https://aldoin.com,Blockchain,,,,United States,,,aldoin,https://icowatchlist.com/ico/aldoin
+,DCN,Netherlands,,No,https://github.com/Dentacoin/ ERC20- token/blob/master/contract%2 0(solidity)/Dentacoin,,$0.0000,https://dentacoin.com,Ethereum,,$0.00,,United States,,,dentacoin,https://icowatchlist.com/ico/dentacoin
+,ENO,Panama,,No,,,$1.6700,https://ethino.com,Ethereum,,$0.03,,United States,,,ethino,https://icowatchlist.com/ico/ethino
+,RCN,Cayman Islands,,No,,,$0.0750,http://t.ripiocredit.network/icowatchlist,Ethereum,,$0.03,,United States,,,ripiocreditnetwork,https://icowatchlist.com/ico/ripiocreditnetwork
+,TKT,Russian Federation,,No,https://github.com/cryptoticket,,$0.0400,https://www.crypto.tickets,Ethereum,,,,United States,,,cryptotickets,https://icowatchlist.com/ico/cryptotickets
+,UTK,Switzerland,,No,,,$0.0650,https://utrust.io/,Ethereum,,$0.03,-60.14%,United States,"$21,000,000",,utrust,https://icowatchlist.com/ico/utrust
+,STAR,Singapore,,No,,,$0.0000,https://starbase.co/,Ethereum,,$0.03,,United States,,,starbase,https://icowatchlist.com/ico/starbase
+,QVT,Unknown,,No,,,$0.0041,https://qvolta.com/,Ethereum,,$0.01,69.98%,United States,"$715,000","218,750,000",qvolta,https://icowatchlist.com/ico/qvolta
+,ALTC,Unknown,,No,,,$0.0000,https://altocar-ico.com/en,Waves,,$0.00,,United States,,,altocar,https://icowatchlist.com/ico/altocar
+,HIVE,Unknown,,No,,,$0.6000,https://cryptohive.world,Ethereum,,,,United States,,,cryptohive,https://icowatchlist.com/ico/cryptohive
+,PBC,United States,,No,https://github.com/blockstack,,$0.0700,http://www.blockstack.com/,Blockchain,,$0.00,,United States,,,blockstack,https://icowatchlist.com/ico/blockstack
+,GVT,Ireland,,No,https://github.com/GenesisVision,,$1.0000,https://genesis.vision,Ethereum,,$4.18,,United States,,,genesisvision,https://icowatchlist.com/ico/genesisvision
+,CDRT,United Kingdom,,No,,,$1.1800,https://crederoom.com,Ethereum,,$0.03,,United States,,,crederoom,https://icowatchlist.com/ico/crederoom
+,PRIX,Unknown,,No,https://github.com/Privatix,,$3.0000,https://privatix.io,Ethereum,,$0.55,-81.51%,United States,"$4,731,816",,privatix,https://icowatchlist.com/ico/privatix
+,XCPO,India,,No,https://github.com/copicogithub1/copico,,$0.0065,http://copico.io/index.php,Bitcoin Fork,,$0.02,,United States,,,copico,https://icowatchlist.com/ico/copico
+,AMM,Myanmar,,No,https://github.com/micro-money/prime,,$1.0000,https://micromoney.io/,Ethereum,,$0.01,-99.22%,United States,"$10,500,000",,micromoney,https://icowatchlist.com/ico/micromoney
+,CRN,Switzerland,,No,https://github.com/careerxon/code,,$0.2300,https://careerxon.com/,Ethereum,,,,United States,,,careerxon,https://icowatchlist.com/ico/careerxon
+,CASH,Unknown,,No,,,$0.0000,http://cashpokerpro.io,Ethereum,,$0.01,,United States,,,cashpoker,https://icowatchlist.com/ico/cashpoker
+,HAW,Lithuania,,No,,,$0.0600,http://happiestatwork.eu,Ethereum,,,,United States,,,happiestatwork,https://icowatchlist.com/ico/happiestatwork
+,SYN,United States,,No,https://github.com/SynapseOrg,,$0.0450,https://synapse.ai/?utm_source=icowatchlist&utm_medium=ico&utm_campaign=icolists,Ethereum,,,,United States,,,synapse,https://icowatchlist.com/ico/synapse
+,WAND,Singapore,,No,,,$0.0900,http://wandx.co/,Ethereum,,$0.02,,United States,,,wandx,https://icowatchlist.com/ico/wandx
+,BID,Australia,,No,https://github.com/Blockbid,,$1.0000,https://blockbid.com.au/,Ethereum,,,,United States,,,blockbid,https://icowatchlist.com/ico/blockbid
+,CDL,Ireland,,No,https://github.com/confideal/ico-contracts,,$0.3000,https://confideal.io,Ethereum,,,,United States,,,confideal,https://icowatchlist.com/ico/confideal
+,SCF,Lithuania,,No,,,$0.0570,https://safechildfuture.com/,Ethereum,,,,United States,,,safechildfuture,https://icowatchlist.com/ico/safechildfuture
+,MBT,Russian Federation,,No,,,$1.0000,https://multibot.io,Ethereum,,,,United States,,,multibot,https://icowatchlist.com/ico/multibot
+,ZET,Germany,,No,,,$1.1600,http://zeus-token.io/eng/,Ethereum,,$0.01,,United States,,,zeus,https://icowatchlist.com/ico/zeus
+,BON,United Kingdom,,No,,,$0.6000,https://bonpay.com/,Ethereum,,$0.00,,United States,,,bonpay,https://icowatchlist.com/ico/bonpay
+,WAX,Canada,,No,https://github.com/waxio,,$0.5000,https://wax.io/,Ethereum,,$0.06,,United States,,,wax,https://icowatchlist.com/ico/wax
+,STORM,Unknown,"$50,000,000",No,,,$0.0100,http://stormtoken.com/,Ethereum,,$0.00,,United States,,"7,500,000,000",storm,https://icowatchlist.com/ico/storm
+,PKT,Russian Federation,,No,,,$2.7000,https://playkey.io/,Ethereum,,$0.03,-98.90%,United States,"$10,512,361",,playkeyio,https://icowatchlist.com/ico/playkeyio
+,SENSE,United States,,No,,,$0.1000,https://t.sensetoken.com/icowatchlist,Ethereum,,,,United States,,,sense,https://icowatchlist.com/ico/sense
+,VZT,United States,"$15,000,000",Yes,,Yes,$0.5000,https://vezt.co/,Ethereum,,,,United States,"$1,380,644","50,000,000",vezt-ico,https://icowatchlist.com/ico/vezt-ico
+,COP,Lithuania,,No,https://github.com/CopPay-io,,$0.0150,https://coppay.io/,Ethereum,,$0.00,,United States,,,coppay,https://icowatchlist.com/ico/coppay
+,CCO,Armenia,,No,,,$0.3000,http://ccore.io,Ethereum,,$0.02,,United States,,,ccore,https://icowatchlist.com/ico/ccore
+,PBL,Unknown,,No,https://github.com/PublicaIO,,$1.0000,https://publica.io/,Ethereum,,$0.02,-97.95%,United States,"$1,000,000",,publica,https://icowatchlist.com/ico/publica
+,DMT,Ukraine,,No,https://github.com/suntechsoft/dmarket-smartcontract,,$0.4000,https://dmarket.com/,Blockchain,,,,United States,,,dmarket,https://icowatchlist.com/ico/dmarket
+,UCN,Singapore,,No,https://github.com/ImperialDigitalNZ/uccoin,,$0.2000,https://verifyunion.io,Ethereum,,,,United States,,,verifyunion,https://icowatchlist.com/ico/verifyunion
+,GEE,Lithuania,,No,https://github.com/GeensNPO,,$0.1800,https://geens.com,Ethereum,,,,United States,,,geens,https://icowatchlist.com/ico/geens
+,JBX,United States,,No,,,$0.2000,https://jboxcoin.org/,Ethereum,,,,United States,,,jboxcoin,https://icowatchlist.com/ico/jboxcoin
+,DIMND,Belize,,No,,,$7.5000,http://dimnd.io,Ethereum,,,,United States,,,dimnd,https://icowatchlist.com/ico/dimnd
+,PLM,Switzerland,,No,,,$3.0000,https://www.algo.land,Ethereum,,,,United States,,,algoland,https://icowatchlist.com/ico/algoland
+,ATK,United States,,No,,,$1.0000,https://amltoken.com/,Blockchain,,,,United States,,,amlbitcoin,https://icowatchlist.com/ico/amlbitcoin
+,WRC,Czech Republic,,No,,,$0.1000,https://worldcore.com/,Ethereum,,$0.00,-95.97%,United States,"$25,560,000",,worldcore,https://icowatchlist.com/ico/worldcore
+,PHI,United States,,No,https://github.com/DelphiSystems,,$0.0000,https://delphi.systems/,Ethereum,,,,United States,,,delphisystems,https://icowatchlist.com/ico/delphisystems
+,AIX,Unknown,,No,,,$3.0000,https://aigang.network/,Ethereum,,$0.01,,United States,,,aigang,https://icowatchlist.com/ico/aigang
+,MED,Gibraltar,,No,https://github.com/Medibloc,,$0.0050,https://medibloc.org,Other,,$0.00,,United States,,,medibloc,https://icowatchlist.com/ico/medibloc
+,NGC,Germany,,No,,,$1.0000,https://www.nagaico.com,Ethereum,,$0.06,,United States,,,nagagroup,https://icowatchlist.com/ico/nagagroup
+,XRED,United Kingdom,,No,https://github.com/xredfoundation,,$1.0000,https://xred.co/,Ethereum,,,,United States,,,xred,https://icowatchlist.com/ico/xred
+,VEGA,United States,,No,,,$0.4700,https://vegais.com/,Ethereum,,$0.00,-99.99%,United States,"$323,450",,vegaaisolutions,https://icowatchlist.com/ico/vegaaisolutions
+"BTC, ETH",VRP,Russian Federation,"$30,000,000",No,https://github.com/prosensetv,,$0.1000,http://prosense.tv/,Ethereum,,,,United States,,"720,000,000",prosenselive,https://icowatchlist.com/ico/prosenselive
+,NEU,Germany,,No,https://github.com/Neufund/ico-contracts,,$0.3600,https://neufund.org,Ethereum,,$0.12,,United States,,,neufund,https://icowatchlist.com/ico/neufund
+,SPHTX,Switzerland,,No,,,$0.5100,https://www.sophiatx.com/,Blockchain,,$0.01,,United States,,,sophiatx,https://icowatchlist.com/ico/sophiatx
+,,,,,,,,,,,,,,,,investy,https://icowatchlist.com/ico/investy
+,CHX,Liechtenstein,,No,https://github.com/chainium,,$0.0000,https://www.chainium.io,Ethereum,,,,United States,,,chainium,https://icowatchlist.com/ico/chainium
+,MAT,Unknown,,No,,,$3.0000,https://www.miniapps.pro/,Ethereum,,$0.02,,United States,,,miniappspro,https://icowatchlist.com/ico/miniappspro
+,DEAL,United States,,No,,,$15.0000,https://foreground.io,Ethereum,,,,United States,,,foreground,https://icowatchlist.com/ico/foreground
+,ICS,Russian Federation,,No,,,$250.0000,https://novacool.io/,Ethereum,,,,United States,,,novacool,https://icowatchlist.com/ico/novacool
+,CNT,Russian Federation,,No,,,$0.8500,https://www.connectius.com,Ethereum,,$0.01,,United States,,,connectius,https://icowatchlist.com/ico/connectius
+,RST,Liechtenstein,,No,,,$30.0000,https://rega.life/,Ethereum,,,,United States,,,regarisksharing,https://icowatchlist.com/ico/regarisksharing
+,PTC,United Kingdom,,No,,,$0.1800,http://www.propthereum.io,Ethereum,,$0.00,,United States,,,propthereum,https://icowatchlist.com/ico/propthereum
+,ESC,Ukraine,,No,,,$0.1500,https://ethersport.io,Ethereum,,$0.00,,United States,,,ethersport,https://icowatchlist.com/ico/ethersport
+,IDH,Poland,,No,https://github.com/indahash,,$0.0670,https://indahash.com/ico,Ethereum,,$0.00,,United States,,,indahash,https://icowatchlist.com/ico/indahash
+,DEB,Lithuania,,No,https://github.com/debitum,,$0.1250,https://debitum.network,Ethereum,,$0.00,,United States,,,debitumnetwork,https://icowatchlist.com/ico/debitumnetwork
+,,,,,,,,,,,,,,,,kevin,https://icowatchlist.com/ico/kevin
+BTC,DAC,Switzerland,"$87,700,000",No,https://github.com/Hdactech,,$0.8100,https://hdac.io/,Blockchain,,,,"United States, China, Singapore","$20,000,000","12,000,000,000",hdac,https://icowatchlist.com/ico/hdac
+,HIG,Canada,,No,https://github.com/ethereumhigh/Ethereum-High,,$3.0000,https://www.ethereumhigh.org/,Ethereum,,,,United States,,,ethereumhigh,https://icowatchlist.com/ico/ethereumhigh
+,BINARY,Unknown,,No,,,$1.3500,http://www.binary.com,Ethereum,,,,United States,,,binarycom,https://icowatchlist.com/ico/binarycom
+,SRN,Switzerland,,No,https://github.com/sirin-labs,,$0.9000,https://sirinlabs.com/,Ethereum,,$0.03,-96.11%,United States,"$157,885,825",,finney,https://icowatchlist.com/ico/finney
+,REM,Ukraine,,No,,,$0.0000,https://www.remme.io,Ethereum,,$0.02,,United States,"$17,500,000",,remme,https://icowatchlist.com/ico/remme
+,INS,Russian Federation,,No,,,$1.0000,https://ins.world/,Ethereum,,$0.31,,United States,,,insecosystem,https://icowatchlist.com/ico/insecosystem
+,PEF,Switzerland,,No,,,$300.0000,https://prosume.io,Ethereum,,,,United States,,,prosumeenergy,https://icowatchlist.com/ico/prosumeenergy
+,CAN,Australia,,No,,,$0.4615,https://canya.io/,Ethereum,,$0.02,,United States,,,canya,https://icowatchlist.com/ico/canya
+,DES,Estonia,,No,,,$0.3000,https://descrow.com/,Ethereum,,$0.02,,United States,,,decentralizedescrow,https://icowatchlist.com/ico/decentralizedescrow
+ETH,LEND,Estonia,"$17,900,000",No,https://github.com/ETHLend,,$0.0200,https://ethlend.io/en/,Ethereum,,$0.01,-52.26%,United States,"$17,860,000","1,300,000,000",ethlend,https://icowatchlist.com/ico/ethlend
+,BKX,Cayman Islands,,No,https://github.com/BankEx ,,$0.6000,https://bankex.com,Ethereum,,$0.02,,United States,,,bankex,https://icowatchlist.com/ico/bankex
+,SIG,United States,,No,,,$0.5000,https://www.spectivvr.com/,Ethereum,,,,United States,,,spectiv,https://icowatchlist.com/ico/spectiv
+,NAU,Cayman Islands,,No,https://github.com/nau-dev?tab=repositories,,$0.0400,https://nau.io/,Ethereum,,,,United States,,,nau,https://icowatchlist.com/ico/nau
+,PMT,Russian Federation,,No,https://github.com/CryptonStudio,,$35.0000,https://ico.playmarket.io/,Ethereum,,,,United States,,,daoplaymarket20,https://icowatchlist.com/ico/daoplaymarket20
+,LHC,Russian Federation,,No,https://github.com/LHCrypto/LHToken,,$0.1000,https://lh-crypto.io,Ethereum,,$0.01,,United States,,,lhcrypto,https://icowatchlist.com/ico/lhcrypto
+,LST,Russian Federation,,No,https://github.com/liveshowio/liveshow_smart_contract,,$0.0750,http://www.liveshow.io,Ethereum,,$0.00,,United States,,,liveshow,https://icowatchlist.com/ico/liveshow
+,STY,Switzerland,,No,https://github.com/StyrasIco/Styras,,$0.1020,https://styras.io/,Ethereum,,,,United States,,,styras,https://icowatchlist.com/ico/styras
+,DMC,Russian Federation,,No,,,$66.0000,https://odmcoin.com/,Ethereum,,$0.00,,United States,,,odmcoin,https://icowatchlist.com/ico/odmcoin
+,FDM,Cayman Islands,,No,,,$0.0250,https://freedomstreaming.io,Ethereum,,$0.00,,United States,,,freedomstreaming,https://icowatchlist.com/ico/freedomstreaming
+,FPT,Afghanistan,,No,,,$0.1000,https://familypoints.io/,Ethereum,,,,United States,,,familypoints,https://icowatchlist.com/ico/familypoints
+,CIX,Costa Rica,,No,http://www.github.com/cryptonetix,,$0.3400,http://www.cryptonetix.com,Ethereum,,$0.00,-98.98%,United States,"$110,000",,cryptonetix,https://icowatchlist.com/ico/cryptonetix
+,,,,,,,,,,,,,,,,fantasymarket,https://icowatchlist.com/ico/fantasymarket
+,LOL,United States,,No,https://github.com/LoanOrLease/lol,,$0.2000,Https://www.loanorlease.com,Bitcoin Fork,,,,United States,,,loanorlease,https://icowatchlist.com/ico/loanorlease
+,TIO,Switzerland,,No,,,$0.5600,https://trade.io/?utm_source=icowatchlist&utm_medium=article&utm_campaign=listing&utm_term=CTA,Ethereum,,$0.01,-98.78%,United States,"$31,000,000",,tradeio,https://icowatchlist.com/ico/tradeio
+,CABS,Luxembourg,,No,https://github.com/cybertrustbank,,$150.0000,https://www.cybertrust.io/,Ethereum,,,,United States,,,cybertrust,https://icowatchlist.com/ico/cybertrust
+,BTF,United States,,No,,,$0.0510,www.blockchaintradedfunds.com,Ethereum,,,,United States,,,blockchaintradedfund,https://icowatchlist.com/ico/blockchaintradedfund
+,UCASH,Canada,,No,,,$0.0100,https://u.cash,Ethereum,,$0.00,,United States,,,ucash,https://icowatchlist.com/ico/ucash
+,STARS,United Kingdom,,No,,,$0.0000,http://starsgroup.io,Ethereum,,,,United States,,,starsgroup,https://icowatchlist.com/ico/starsgroup
+,CHSB,Switzerland,"$50,000,000",No,https://github.com/SwissBorg,,$0.0900,https://swissborg.com/en/,Ethereum,,$0.01,,United States,,"620,000,000",swissborg,https://icowatchlist.com/ico/swissborg
+,LOAN,Gibraltar,,No,https://github.com/Lendoit,,$0.0000,https://lendoit.com?refid=3121,Ethereum,,,,United States,,,lendoit,https://icowatchlist.com/ico/lendoit
+,CRYPT,Estonia,,No,,,$0.4800,https://crypterium.io/,Ethereum,,$0.03,,United States,,"99,983,577",crypterium,https://icowatchlist.com/ico/crypterium
+,EVN,Switzerland,,No,https://github.com/orgs/envion/,,$1.0000,https://envion.org/,Ethereum,,$0.07,,United States,,,envionevn,https://icowatchlist.com/ico/envionevn
+,GAT,Hong Kong,,No,https://github.com/gatcoin,,$0.0450,https://www.gatcoin.io/,Ethereum,,$0.00,-96.30%,United States,"$40,360,000",,gatcoin,https://icowatchlist.com/ico/gatcoin
+,COV,Gibraltar,,No,https://github.com/covesting,,$0.8700,https://covesting.io,Ethereum,,$0.10,,United States,,,covesting,https://icowatchlist.com/ico/covesting
+,APPC,Singapore,,No,https://github.com/Aptoide/AppCoins/,,$0.1960,https://appcoins.io/,Ethereum,,$0.08,,United States,,,appcoin,https://icowatchlist.com/ico/appcoin
+USD,TZRO,United States,"$250,000,000",No,,,$10.0000,https://www.tzero.com/,Blockchain,,,,United States,"$250,000,000","250,000,000",tzero,https://icowatchlist.com/ico/tzero
+,SLRM,United States,,No,,,$0.7000,https://solareum.club/,Ethereum,,,,United States,,,solareum,https://icowatchlist.com/ico/solareum
+,TRF,Hong Kong,,No,,,$0.2800,https://travelflex.org/,Other,,$0.00,,United States,,,travelflexcoin,https://icowatchlist.com/ico/travelflexcoin
+BTC,ELA,China,"$94,100,000",No,https://github.com/elastos,,$18.0900,https://www.elastos.org/,Blockchain,,$2.78,-84.63%,United States,"$94,073,200","33,000,000",elastos,https://icowatchlist.com/ico/elastos
+,HCT,United States,,No,,,$1.0000,https://www.nareigus.com,Ethereum,,,,United States,,,realestatecoupon,https://icowatchlist.com/ico/realestatecoupon
+,BDG,Lithuania,,No,https://github.com/bitdegree,,$0.0300,https://www.bitdegree.org,Ethereum,,$0.00,,United States,,,bitdegree,https://icowatchlist.com/ico/bitdegree
+,EDU,United States,,No,,,$0.1000,https://tokensale.liveedu.tv/,Ethereum,,,,United States,"$10,500,000",,liveedu,https://icowatchlist.com/ico/liveedu
+,REALESTATE,Australia,,No,https://github.com/Propify-Org/Ecosystem,,$4.5000,https://www.propify.online ,Ethereum,,,,United States,,,propify,https://icowatchlist.com/ico/propify
+,JNT,Switzerland,,No, https://github.com/jibrelnetwork/,,$0.2000,https://jibrel.network/,Ethereum,,$0.05,,United States,,,jibrelnetwork,https://icowatchlist.com/ico/jibrelnetwork
+ETH,POLY,Canada,,No,https://github.com/PolymathNetwork,,$0.0000,https://www.polymath.network/,Blockchain,,$0.12,,United States,,"1,000,000,000",polymath,https://icowatchlist.com/ico/polymath
+"ETH, BTC, LTC, BCH, DASH",STQ,Russian Federation,"$25,000,000",No,https://github.com/Storiqa,,$0.0000,https://crowdsale.storiqa.com/,Blockchain,,$0.00,,United States,"$25,000,000","1,500,000",storiqa,https://icowatchlist.com/ico/storiqa
+,FLP,United States,,No,https://github.com/gameflip/tokensale,,$2.2500,https://tokensale.gameflip.com/,Ethereum,,$0.01,,United States,,,gameflip,https://icowatchlist.com/ico/gameflip
+,VIT,United Kingdom,,No,,,$0.9000,https://vimarket.io/,Ethereum,,$0.00,,United States,,,vimarket,https://icowatchlist.com/ico/vimarket
+,PINNS,United States,,No,https://github.com/pocketinns,,$0.0000,https://www.pocketinns.io,Ethereum,,,,United States,,,pocketinns,https://icowatchlist.com/ico/pocketinns
+ETH,KIND,Panama,,No,https://github.com/kindads/platform,Yes,$0.6000,https://kindads.io/,Ethereum,,,,United States,"$20,000,000","61,000,000",kind-ads,https://icowatchlist.com/ico/kind-ads
+,WIZ,Estonia,"$7,220,000",No,https://github.com/Crowdwiz,,$1.0000,https://crowdwiz.io,Ethereum,,$0.01,,United States,,,crowdwiz,https://icowatchlist.com/ico/crowdwiz
+,BEE,United States,"$15,000,000",Yes,https://github.com/thebeetoken,Yes,$0.1400,https://www.beetoken.com/?utm_source=icodrops,Ethereum,,,,United States,"$10,000,000","15,000,000",the-bee-token,https://icowatchlist.com/ico/the-bee-token
+,SHIP,United States,,No,,,$0.3400,https://shipchain.io,Ethereum,,$0.01,,United States,,,shipchain,https://icowatchlist.com/ico/shipchain
+,SHPING,Australia,,No,https://github.com/Shping,,$0.0100,https://tokensale.shping.com,Ethereum,,,,United States,,,shping,https://icowatchlist.com/ico/shping
+,,,,,,,,,,,,,,,,iungo,https://icowatchlist.com/ico/iungo
+,UST,Russian Federation,,No,,,$0.2350,https://usrv.io,Ethereum,,,,United States,"$23,829,663",,uservice,https://icowatchlist.com/ico/uservice
+,AID,Switzerland,,No,https://github.com/AidCoinCo,,$0.4500,https://www.aidcoin.co/,Ethereum,,$0.06,,United States,,,aidcoin,https://icowatchlist.com/ico/aidcoin
+,ETK,United Kingdom,,No,,Yes,$0.0300,https://energitoken.com/,Ethereum,January 9th 2018 To February 1st 2018,,,United States,"$26,000,000","2,300,000,000",energitoken,https://icowatchlist.com/ico/energitoken
+ETH,WPR,Gibraltar,"$40,000,000",No,https://github.com/WePowerNetwork,,$0.1300,https://wepower.network/,Ethereum,September 22nd 2017 To February 2nd 2018,$0.01,-89.22%,United States,"$40,000,000","80,000,000",wepower,https://icowatchlist.com/ico/wepower
+,INSP,Russian Federation,,No,,,$1.0000,https://inspeer.io/,Ethereum,,,,United States,,,inspeer,https://icowatchlist.com/ico/inspeer
+,SHP,Hong Kong,,No,,,$0.1500,https://sharpe.capital,Ethereum,,$0.03,-78.95%,United States,"$7,100,000",,sharpecapital,https://icowatchlist.com/ico/sharpecapital
+,ESCAPE,Russian Federation,,No,,,$1.0000,https://www.escapetoken.com/#home,Ethereum,,,,United States,,,escapetoken,https://icowatchlist.com/ico/escapetoken
+ETH,ABT,United States,"$45,000,000",No,https://github.com/arcblock,,$0.5000,https://www.arcblock.io/,Ethereum,,$0.19,-61.08%,United States,"$45,000,000","186,000,000",arcblock,https://icowatchlist.com/ico/arcblock
+,FSN,Singapore,,No,https://github.com/FusionFoundation,,$2.5000,https://www.fusion.org,Ethereum,,$0.50,,United States,,,fusion,https://icowatchlist.com/ico/fusion
+,SCR,Belarus,,No,https://github.com/Scorum,,$1.0000,https://scorumcoins.com,Other,,,,United States,,,scorum,https://icowatchlist.com/ico/scorum
+,3DT,United Kingdom,,No,,,$0.5000,https://3d-token.com/,Ethereum,,,,United States,,,3dtoken,https://icowatchlist.com/ico/3dtoken
+,MWAT,Romania,,No,https://github.com/TransylvaniaHighTech/RestartEnergyICO,,$0.1000,https://restartenergy.io/,Ethereum,,$0.01,,United States,,,redmegawattmwat,https://icowatchlist.com/ico/redmegawattmwat
+,SKRP,United States,,No,,,$0.3000,http://www.skraps.io/,Ethereum,,,,United States,,,skraps,https://icowatchlist.com/ico/skraps
+,DTH,France,,No,https://github.com/dethertech,,$0.2300,https://dether.io/,Ethereum,,$0.01,,United States,,,dether,https://icowatchlist.com/ico/dether
+,DIGIT,Thailand,,No,,,$1.0000,https://www.digitcoin.world,Other,,,,United States,,,digitcoin,https://icowatchlist.com/ico/digitcoin
+,IBET,Malta,,No,,,$0.1200,http://ico.cryptoibet.com/,Ethereum,,,,United States,,,cryptoibet,https://icowatchlist.com/ico/cryptoibet
+,BMK,Switzerland,,No,,,$0.0375,https://bmarkt.io,Ethereum,,,,United States,,,bmarkt,https://icowatchlist.com/ico/bmarkt
+"ETH, BTC",FXT,"Korea, Republic of","$36,200,000",No,,,$0.0800,https://www.fuzex.co/,Ethereum,,,,United States,"$36,241,600","1,060,000,000",fuzex,https://icowatchlist.com/ico/fuzex
+,MAN,Hong Kong,,No,,,$0.3600,https://www.matrix.space,Not Available,,$0.53,,United States,,,matrix,https://icowatchlist.com/ico/matrix
+,KRI,Australia,,No,,,$0.1000,https://www.krios.io,Ethereum,,,,United States,,,krios,https://icowatchlist.com/ico/krios
+"BTC, ETH",REN,Singapore,"$53,000,000",No,https://github.com/republicprotocol,,$0.0500,https://republicprotocol.com/,Ethereum,,,,United States,"$30,500,000","602,000,000",republic-protocol,https://icowatchlist.com/ico/republic-protocol
+,VB,United States,,No,,,$0.0100,https://vaultbank.io/,Ethereum,,,,United States,,,vaultbank,https://icowatchlist.com/ico/vaultbank
+,CLN,Israel,,No,https://github.com/Colored-Coins,,$0.0000,https://cln.colu.com/,Ethereum,,,,United States,,,colulocalnetwork,https://icowatchlist.com/ico/colulocalnetwork
+,OTG,France,,No,https://github.com/OutingApp/hellocommunity,,$0.1000,https://www.outing-app.com,Ethereum,,,,United States,,,outing,https://icowatchlist.com/ico/outing
+,BTD,United Kingdom,,No,,,$1.0000,https://Bitroad.io,Ethereum,,$0.75,,United States,,,bitroad,https://icowatchlist.com/ico/bitroad
+,TKLN,Singapore,,No,,,$0.0300,http://www.taklimakan.io,Ethereum,,,,United States,,,taklimakannetwork,https://icowatchlist.com/ico/taklimakannetwork
+"ETH, USD",BAX,United Kingdom,"$20,000,000",No,,,$0.0012,https://getbabb.com/,Ethereum,,$0.00,-84.17%,United States,"$20,000,000","50,000,000,000",babb,https://icowatchlist.com/ico/babb
+,BFC,United Kingdom,,No,,,$9.0000,http://www.biofactorycoin.com/,Ethereum,,,,United States,,,biofactorycoin,https://icowatchlist.com/ico/biofactorycoin
+,CTN,United Kingdom,,No,,,$1.0000,https://cryptotrust.network,Ethereum,,,,United States,,,cryptotrustnetwork,https://icowatchlist.com/ico/cryptotrustnetwork
+,LWF,Italy,,No,https://github.com/lwfcoin,,$0.0000,https://www.lwf.io/en,Other,,,,United States,,,localworldforwarders,https://icowatchlist.com/ico/localworldforwarders
+ETH,OCN,Singapore,"$47,600,000",No,,,$0.0100,https://ocoin.sg/home/index.php,Ethereum,,,,United States,"$50,000,000","10,000,000,000",odyssey,https://icowatchlist.com/ico/odyssey
+,iRMC,Russian Federation,,No,,,$0.7800,https://remechain.io/,Ethereum,,,,United States,,,remechain,https://icowatchlist.com/ico/remechain
+,HQX,United Kingdom,,No,https://github.com/hoqu-io,,$0.0600,https://www.hoqu.io/,Ethereum,,$0.01,,United States,,,hoqu,https://icowatchlist.com/ico/hoqu
+,PIP,Spain,,No,https://github.com/thepaypro/SmartContract,,$0.5000,http://www.payproapp.com,Ethereum,,,,United States,,,paypro,https://icowatchlist.com/ico/paypro
+,SSH,United States,,No,https://github.com/streamspace,,$0.0000,https://www.stream.space,Ethereum,,,,United States,,,streamspace,https://icowatchlist.com/ico/streamspace
+ETH,MRK,Singapore,,No,,,$0.1000,https://mark.space/,Ethereum,,$0.01,,United States,,,markspace,https://icowatchlist.com/ico/markspace
+,RSN,Estonia,,No,,,$11.7400,https://raison.ai/index-en.html,Ethereum,,,,United States,,,raison,https://icowatchlist.com/ico/raison
+,BERRY,United States,,No,,,$0.1800,https://rentberry.com/,Ethereum,,$0.00,,United States,,,rentberry,https://icowatchlist.com/ico/rentberry
+,,,,,,,,,,,,,,,,stockchainglobal,https://icowatchlist.com/ico/stockchainglobal
+,MLT,Argentina,,No,,,$12.0000,https://www.multigames.mobi,Ethereum,,,,United States,,,multigames,https://icowatchlist.com/ico/multigames
+,HUR,Canada,,Yes,https://github.com/HurifyPlatform/,Yes,$0.1500,https://platform.hurify.co/,Ethereum,,,,United States,,"273,125,000",hurify,https://icowatchlist.com/ico/hurify
+ETH,CcS,Japan,,Yes,https://github.com/AnalemaTechnologies/CacaoShares,Yes,$0.3600,https://www.cacaoshares.com,Ethereum,,,,United States,,"100,000,000",cacaoshares,https://icowatchlist.com/ico/cacaoshares
+,CID,Virgin Islands (British),,No,,,$1.0000,https://chain-id.org,Ethereum,,,,United States,,,chainid,https://icowatchlist.com/ico/chainid
+,DADI,United Kingdom,,No,https://github.com/dadi,,$0.2500,https://dadi.cloud,Ethereum,,$0.04,,United States,,,dadi,https://icowatchlist.com/ico/dadi
+,LNC,Austria,,No,https://github.com/BlocklancerOrg,,$0.0830,https://blocklancer.net/,Ethereum,,$0.00,-95.17%,United States,"$5,400,000",,blocklancer,https://icowatchlist.com/ico/blocklancer
+"BTC, ETH, USD",BBCoin,United States,"$52,000,000",No,https://github.com/TraDove,,$0.1200,https://bbcoin.tradove.com/,Ethereum,December 26th 2017 To February 1st 2018,,,United States,"$33,000,000","1,000,000,000",tradove,https://icowatchlist.com/ico/tradove
+,,,,,,,,,,,,,,,,volinex,https://icowatchlist.com/ico/volinex
+,LCD,Singapore,,No,,,$0.2500,https://lucyd.co/,Ethereum,,,,United States,,,lucyd,https://icowatchlist.com/ico/lucyd
+ETH,DATx,Singapore,,No,,,$0.0400,https://www.datx.co/,Ethereum,,,,United States,,"10,000,000,000",datx,https://icowatchlist.com/ico/datx
+,CPX,China,"$25,000,000",No,,,$0.1600,https://apex.chinapex.com/,Blockchain,,,,United States,"$25,000,000","1,000,000,000",apex,https://icowatchlist.com/ico/apex
+ETH,LYM,Estonia,"$12,700,000",No,,,$0.0217,https://lympo.io/,Ethereum,January 23rd 2018 To February 3rd 2018,$0.01,-70.29%,"United States, China","$16,857,899","1,000,000,000",lympo,https://icowatchlist.com/ico/lympo
+ETH,NCASH,United States,"$40,000,000",No,https://github.com/NucleusVision,,$0.0100,https://nucleus-vision.cc/,Ethereum,,$0.00,-80.26%,United States,"$40,000,000","10,000,000,000",nucleusvision,https://icowatchlist.com/ico/nucleusvision
+,CS,Singapore,,No,https://gist.github.com/Credits-com,,$0.0700,https://credits.com/,Ethereum,,$0.01,,United States,,,credits,https://icowatchlist.com/ico/credits
+,DEEX,Russian Federation,,No,https://github.com/thedeex,,$0.2000,https://deex.exchange/,Ethereum,,,,United States,,,deex,https://icowatchlist.com/ico/deex
+,VIOX,United Kingdom,,No,,,$0.5000,https://www.vionex.io,Ethereum,,,,United States,,,vionex,https://icowatchlist.com/ico/vionex
+,MDC,United States,,No,,,$250.0000, https://minerdog.net,Ethereum,,$0.00,,United States,,,minerdog,https://icowatchlist.com/ico/minerdog
+,NPX,France,,No,https://github.com/ProjectNapoleonX,,$1.0000,https://www.napoleonx.ai,Ethereum,,$0.25,,United States,,,napoleonx,https://icowatchlist.com/ico/napoleonx
+,HAWK,Switzerland,,No,,,$0.5000,https://cryptohawk.com,Ethereum,,$0.01,,United States,,,cryptohawk,https://icowatchlist.com/ico/cryptohawk
+,KYC,Unknown,,No,,,$1.0000,https://kyc.legal/,Ethereum,,,,United States,,,kyclegal,https://icowatchlist.com/ico/kyclegal
+,CBC,Belgium,,No,,,$0.7200,https://corusblock.com,Blockchain,,$0.01,,United States,,,corusblock,https://icowatchlist.com/ico/corusblock
+,,,,,,,,,,,,,,,,watertech,https://icowatchlist.com/ico/watertech
+ETH,MTN,United Kingdom,"$24,000,000",No,https://github.com/medicalchain,,$0.2500,https://medicalchain.com/en/,Ethereum,,$0.00,-98.22%,United States,"$23,991,953","500,000,000",medicalchain,https://icowatchlist.com/ico/medicalchain
+,ECHT,Hong Kong,,No,,,$1.0000,https://investors.echat.io/,Ethereum,,,,United States,,,echat,https://icowatchlist.com/ico/echat
+"USD, ETH",ELEC,Singapore,"$30,000,000",No,https://github.com/electrifyasia,,$0.0800,https://electrify.asia/#home,Blockchain,,,,"United States, China, Korea, Democratic People's Republic of","$29,102,830","750,000,000",electrifyasia,https://icowatchlist.com/ico/electrifyasia
+ETH,HBZ,Singapore,,No,https://github.com/Serenity-Financial/smart-contract,Yes,$0.1500,https://www.helbiz.com/,Ethereum,,,,United States,,"1,000,000,000",helbizcoin,https://icowatchlist.com/ico/helbizcoin
+,DAN,Estonia,,No,,Yes,$0.3100,https://daneel.io/,Ethereum,,,,United States,,"100,000,000",daneel,https://icowatchlist.com/ico/daneel
+ETH,IPSX,Switzerland,,No,,,$0.0100,https://ip.sx/,Ethereum,,,,United States,,"1,800,000,000",ip-sharing-exchange,https://icowatchlist.com/ico/ip-sharing-exchange
+ETH,J8T,Singapore,"$36,000,000",No,https://github.com/jet8,,$0.0974,https://jet8.io/,Ethereum,,$0.00,-99.46%,"United States, China","$32,700,000","1,500,000,000",jet8,https://icowatchlist.com/ico/jet8
+,HAV,Australia,,Yes,https://github.com/Havven,,$0.5000,https://havven.io/,Ethereum,,$0.04,,United States,,"100,000,000",havven,https://icowatchlist.com/ico/havven
+,SRNT,Estonia,,No,https://github.com/Serenity-Financial/smart-contract,,$0.1000,https://serenity-financial.io,Ethereum,,$0.03,,United States,,,serenity,https://icowatchlist.com/ico/serenity
+ETH,PHI,Malta,,No,,,$1.6200,https://www.phitoken.io/,Ethereum,,,,United States,,"24,157,817",phi-token,https://icowatchlist.com/ico/phi-token
+USD,GRAM,Russian Federation,"$1,700,000,000",No,,,$0.1000,https://telegram.auction/,Blockchain,,,,United States,"$850,000,000","5,000,000,000",telegram-ico,https://icowatchlist.com/ico/telegram-ico
+,DGZ,Russian Federation,,No,,,$1.0000,https://dogezer.com,Ethereum,,,,United States,,,dogezer,https://icowatchlist.com/ico/dogezer
+ETH,OCN,Singapore,"$22,100,000",No,https://github.com/oceanprotocol,,$0.2000,https://oceanprotocol.com/,Blockchain,,,,"United States, China","$22,100,000","1,410,000,000",ocean-protocol,https://icowatchlist.com/ico/ocean-protocol
+ETH,Ethix,Spain,,No,https://github.com/EthicHub,,$0.1800,https://www.ethichub.com/,Ethereum,,,,United States,,"100,000,000",ethic-hub,https://icowatchlist.com/ico/ethic-hub
+,SHA,Belgium,,No,,,$0.5000,https://safehaven.io,Ethereum,,$0.00,,United States,,,safehaven,https://icowatchlist.com/ico/safehaven
+,,,,,,,,,,,,,,,,cryptotask,https://icowatchlist.com/ico/cryptotask
+,SCR,Cyprus,,Yes,https://github.com/scriniumai,,$0.3300,https://www.scrinium.ai,Ethereum,,,,United States,,"180,000,000",scrinium,https://icowatchlist.com/ico/scrinium
+,SPX,Russian Federation,,No,https://github.com/SP8DE,,$0.0100,https://sp8de.com/,Ethereum,,$0.04,,United States,,,sp8de,https://icowatchlist.com/ico/sp8de
+"BTC, ETH",LDC,Gibraltar,,No,https://github.com/LeadcoinNetwork/crowdsale-smart-contract,,$0.0800,https://www.leadcoin.network/,Ethereum,,$0.00,-99.92%,United States,"$50,000,000",,leadcoin,https://icowatchlist.com/ico/leadcoin
+,CPT,Singapore,,No,,,$0.0100,https://www.cryptaur.com,Ethereum,,,,United States,,"15,000,000,000",cryptaur,https://icowatchlist.com/ico/cryptaur
+,RFR,United States,,No,,,$0.0100,https://refereum.com/,Ethereum,,$0.00,,United States,,,refereum,https://icowatchlist.com/ico/refereum
+,TT,Russian Federation,,No,https://github.com/TravelChain,,$0.0140,https://travelchain.io/,Graphene,,,,United States,,,travelchainproject,https://icowatchlist.com/ico/travelchainproject
+,,,,,,,,,,,,,,,,myoddzbet,https://icowatchlist.com/ico/myoddzbet
+,PIIT,Lithuania,,No,,,$0.1200,https://prodeum.io,Ethereum,,,,United States,,,prodeum,https://icowatchlist.com/ico/prodeum
+,LUC,Malta,,No,,,$0.0500,https://play2live.io/en/,Ethereum,,,,United States,,,play2live,https://icowatchlist.com/ico/play2live
+,VITO,Georgia,,No,,,$0.1000,https://viso.global,Waves,,,,United States,,,viso,https://icowatchlist.com/ico/viso
+,DRG,Virgin Islands (British),,No,,,$4.5000,https://drgtoken.io/,Ethereum,,$0.07,,United States,,,dragoninc,https://icowatchlist.com/ico/dragoninc
+,MFG,United States,,Yes,https://github.com/syncfab,Yes,$0.2000,https://blockchain.syncfab.com/,Ethereum,January 1st 2018 To February 15th 2018,$0.00,-99.23%,United States,"$10,450,000","1,000,000,000",syncfab,https://icowatchlist.com/ico/syncfab
+,DNO,United Kingdom,,No,,Yes,$0.2700,https://denaro.io/,Ethereum,,,,United States,,"100,000,000",denaro,https://icowatchlist.com/ico/denaro
+,AIOM,Germany,,No,,,$0.2000,https://www.aicosoft.de/,Ethereum,,,,United States,,,aiom,https://icowatchlist.com/ico/aiom
+,XCD,Hong Kong,,No,,,$0.0000,https://capdax.com/,Ethereum,,,,United States,,,capdax,https://icowatchlist.com/ico/capdax
+"ETH, BTC, USD",VLD,Switzerland,,No,https://github.com/valid-global/,Yes,$0.0700,https://valid.global/,Ethereum,,,,United States,,"1,000,000,000",valid,https://icowatchlist.com/ico/valid
+,EGL,Bulgaria,,No,,,"$8,888,890.0000",https://egold.gg,Ethereum,,,,United States,,,egold,https://icowatchlist.com/ico/egold
+ETH,NOAH,Philippines,,No,https://github.com/NoahFoundation/NoahCoin,,$0.0375,https://noahcoin.org/,Ethereum,,$0.00,,United States,,"91,584,000,000",noah-coin,https://icowatchlist.com/ico/noah-coin
+,GBX,Gibraltar,,No,https://github.com/globitex,,$0.1200,https://globitex.com,Ethereum,,,,United States,,,globitex,https://icowatchlist.com/ico/globitex
+ETH,OPP,United States,,No,https://github.com/opporty-com/ICO,,$0.6000,https://opporty.com/,Ethereum,,,,United States,,,opporty,https://icowatchlist.com/ico/opporty
+,ADH,Estonia,,Yes,,Yes,$0.2000,https://adhive.tv/?utm_source=icowatchlist&utm_medium=listing&utm_campaign=ico,Ethereum,,,,United States,,"45,000,000",adhive,https://icowatchlist.com/ico/adhive
+,VIEW,Canada,,No,http://github.com/viewly,Yes,$0.4500,https://view.ly/,Ethereum,February 1st 2018 To February 21st 2018,,,United States,,"100,000,000",viewly,https://icowatchlist.com/ico/viewly
+ETH,CAPP,United States,,No,https://github.com/CappasityTech,,$0.0085,https://ico.cappasity.com,Ethereum,,$0.00,,United States,,"1,000,000,000",cappasity,https://icowatchlist.com/ico/cappasity
+ETH,ORI,France,,Yes,https://github.com/origamiMP,Yes,$0.1400,https://ori.network,Ethereum,February 13th 2018 To February 20th 2018,$0.01,-90.09%,United States,"$314,150","50,000,000",origami-network,https://icowatchlist.com/ico/origami-network
+,CNK,Mauritius,,No,https://github.com/cryptokafe,,$1.3000,https://cryptokafe.io,Ethereum,,,,United States,,,cryptonkafe,https://icowatchlist.com/ico/cryptonkafe
+"BTC, ETH, LTC, DASH",FUNDZ,Malta,,No,https://github.com/FundFantasy/TokenSale,Yes,$0.9000,https://www.fundfantasy.io,Ethereum,,,,United States,,"80,000,000",fundfantasy,https://icowatchlist.com/ico/fundfantasy
+,VTP,United Arab Emirates,,No,https://github.com/Vestopia,,$0.2600,https://www.vestopia.io/,Ethereum,,,,United States,,,vestopia,https://icowatchlist.com/ico/vestopia
+"BTC, ETH",XNT,Cyprus,,No,,Yes,$43.0000,https://exenium.io,Ethereum,,,,United States,,,exenium,https://icowatchlist.com/ico/exenium
+"BTC, ETH",YOU,Singapore,,No,https://github.com/Selfllery/selfllery-token,Yes,$0.9000,https://tge.selfllery.com/,Ethereum,,,,United States,,"85,937,500",selfllery,https://icowatchlist.com/ico/selfllery
+,GIL,United States,,No,https://github.com/skiral/gilgamesh-token-contract,,$1.0000,https://www.gilgameshplatform.com,Ethereum,,,,United States,,,gilgamesh,https://icowatchlist.com/ico/gilgamesh
+,BOOL,United States,,No,,,$0.1000,https://booleancoin.com/,Ethereum,,,,United States,,,booleancoin,https://icowatchlist.com/ico/booleancoin
+ETH,NAC,Singapore,,No,https://github.com/namicorp,Yes,$0.4000,https://nami.trade/,Ethereum,,,,United States,,"2,000,000,000",namitrade,https://icowatchlist.com/ico/namitrade
+"BTC, ETH, BCH",WCO,Brazil,,No,https://github.com/WincoCrypto,,$0.0700,https://winco.io,Ethereum,,,,United States,,"7,652,580,800",winco,https://icowatchlist.com/ico/winco
+,JOY,United Kingdom,,Yes,https://github.com/JoyPlatform/,Yes,$0.2000,https://joytoken.io/,Ethereum,December 1st 2017 To February 26th 2018,,,United States,"$3,340,000","700,000,000",joy-token,https://icowatchlist.com/ico/joy-token
+,WIN,Cyprus,,No,,,$3.0000,https://www.wawllet.com/,Ethereum,,$0.03,,United States,,,wawllet,https://icowatchlist.com/ico/wawllet
+"BTC, ETH, BCH, DASH",CDG,Thailand,,No,,Yes,$1.0000,https://www.cdgdragon.io/,Ethereum,,,,United States,,"1,274,000,000",oxalor,https://icowatchlist.com/ico/oxalor
+,RQX,Belize,,No,https://github.com/requitix/rqxtoken,,$0.1500,https://www.requitix.io,Ethereum,,,,United States,,,requitix,https://icowatchlist.com/ico/requitix
+,ESB,Taiwan,,No,https://github.com/ens-bid,,$0.0330,https://ens.bid,Ethereum,,,,United States,,,ensbid,https://icowatchlist.com/ico/ensbid
+,WIKI,United States,,No,,,$0.0810,https://wikibits.io/,Ethereum,,,,United States,,,wikibits,https://icowatchlist.com/ico/wikibits
+,PITCH,United States,,No,,Yes,$0.0000,https://tokens.pitch.ventures/,Ethereum,February 8th 2018 To February 28th 2018,,,United States,,"161,800,000,000",pitch,https://icowatchlist.com/ico/pitch
+,THT,United States,,No,https://github.com/Thoughtnetwork,Yes,$0.1200,https://thought.live,Other,March 1st 2018 To March 13th 2018,,,United States,,"517,760,000",thought,https://icowatchlist.com/ico/thought
+,YUP,United Kingdom,,No,https://github.com/crowdholdingico/YupieSmartContract,,$0.1000,https://crowdholding.com,Ethereum,,,,United States,,,crowdholding,https://icowatchlist.com/ico/crowdholding
+,RNTB,United Kingdom,,No,https://github.com/bitrent?tab=repositories,,$0.0300,https://bitrent.io,Blockchain,,$0.00,,United States,,,bitrent,https://icowatchlist.com/ico/bitrent
+,BEEF,Russian Federation,,No,,,$1.0000,https://beefcoin.org/,Ethereum,,,,United States,,,beefcoin,https://icowatchlist.com/ico/beefcoin
+,,,,,,,,,,,,,,,,fortysevenbank,https://icowatchlist.com/ico/fortysevenbank
+,HION,Latvia,,No,https://github.com/handelion,,$1.8800,https://handelion.io/,Ethereum,,,,United States,,,handelion,https://icowatchlist.com/ico/handelion
+"BTC, ETH, LTC, BCH",RTB,Hong Kong,,No,https://github.com/AB-CHAIN-com,Yes,$0.3500,https://ab-chain.com/?utm_source=icowatchlistcom/,Ethereum,,$48.88,,United States,,"100,000,000",abchain,https://icowatchlist.com/ico/abchain
+,GES,Hong Kong,,No,,,$3.0000,https://galaxy-esolutions.com/,Ethereum,,,,United States,"$14,000,000",,galaxyesolutions,https://icowatchlist.com/ico/galaxyesolutions
+,Eroiy,Switzerland,,No,https://github.com/Eroiy,,$0.1200,https://www.eroiy.io/,Other,,,,United States,,,eroiy,https://icowatchlist.com/ico/eroiy
+"ETH, BTC",SKCH,Russian Federation,,No,https://github.com/Skychainglobal/MVP,Yes,$1.0000,http://skychain.global/,Ethereum,,,,United States,,"36,000,000",skychain,https://icowatchlist.com/ico/skychain
+,XCLR,United States,,No,https://github.com/clearcoin,,$0.0100,https://clearcoin.co/,Ethereum,,$0.00,,United States,,,clearcoin,https://icowatchlist.com/ico/clearcoin
+,FT,Estonia,,No,https://github.com/FabricToken,,$0.1125,https://fabrictoken.io,Ethereum,,$0.00,,United States,,,fabrictoken,https://icowatchlist.com/ico/fabrictoken
+,TCT,El Salvador,,No,,Yes,$2.0000,https://thecoffeetoken.io/,Ethereum,,,,United States,,"900,000,000",the-coffee-token,https://icowatchlist.com/ico/the-coffee-token
+ETH,TrueCoin,United States,,No,,Yes,$0.0900,https://truereply.com/uto,Ethereum,,,,United States,,"500,000,000",true-reply,https://icowatchlist.com/ico/true-reply
+,IPC,Germany,,No,https://github.com/PAYSURA/Dev,,$0.1800,https://paysura.com/,Ethereum,,$0.00,,United States,,,paysura,https://icowatchlist.com/ico/paysura
+,NKR,Gibraltar,,No,,,$0.5000,http://nkor.io,Ethereum,,,,United States,,,nkor,https://icowatchlist.com/ico/nkor
+ETH,,United Kingdom,,No,https://github.com/HashBux/hash,,$0.0000,https://hashbux.io/token-sale,Ethereum,,,,United States,,,hashbux,https://icowatchlist.com/ico/hashbux
+,BITTO,United Kingdom,,No,,,$1.0000,https://www.bitto.tech/,Ethereum,,,,United States,,,bittoexchange,https://icowatchlist.com/ico/bittoexchange
+,ELET,United States,,Yes,http://github.com/etherlegendsorg,Yes,$0.5000,https://www.etherlegends.io,Ethereum,,,,United States,,"50,000,000",ether-legends-elet,https://icowatchlist.com/ico/ether-legends-elet
+,AMN,Estonia,,No,https://github.com/amontech,,$0.0600,https://amon.tech/,Ethereum,,,,United States,,,amon,https://icowatchlist.com/ico/amon
+,VST,Belize,,No,https://github.com/cromlehg/Vestarin,Yes,$0.3300,https://www.vestarin.io,Ethereum,January 30th 2018 To February 28th 2018,,,United States,,"200,000,000",vestarin,https://icowatchlist.com/ico/vestarin
+,THRT,Malta,,No,https://github.com/thrivelabs,,$0.3100,https://ico.thrivelabs.io/,Other,,,,United States,,,thrive,https://icowatchlist.com/ico/thrive
+,,,,,,,,,,,,,,,,r3sec,https://icowatchlist.com/ico/r3sec
+,REPUX,Poland,,Yes,,Yes,$0.2000,https://repux.io/,Ethereum,November 17th 2017 To March 5th 2018,,,United States,"$4,700,000","500,000,000",repux,https://icowatchlist.com/ico/repux
+"BTC, ETH, BCH, DASH",,Cayman Islands,,No,,Yes,$0.0000,http://www.bhpcash.io/bhpc/index.html,Ethereum,February 25th 2018 To March 6th 2018,,,United States,,,bank-of-hash-power,https://icowatchlist.com/ico/bank-of-hash-power
+,RTM,United Kingdom,,No,,,$1.0000,https://renteum.org,Ethereum,,,,United States,,,renteum,https://icowatchlist.com/ico/renteum
+,BLS,United States,,No,https://github.com/ProjectBills/Bills,Yes,$3.0000,https://billsb.org/,Ethereum,,,,United States,,"3,000,000",bills,https://icowatchlist.com/ico/bills
+,SAT,France,,No,https://github.com/SandBlockIO,Yes,$0.2300,https://sandblock.io,Ethereum,February 21st 2018 To March 4th 2018,,,United States,,"55,000,000",sandblock,https://icowatchlist.com/ico/sandblock
+,VLB,Estonia,,Yes,,,$1.5400,http://vlb.io/,Ethereum,,,,United States,,"175,000,000",vlb,https://icowatchlist.com/ico/vlb
+,SGN,Czech Republic,,No,,,$0.3300,https://signals.network/,Ethereum,,,,United States,,,signalsnetwork,https://icowatchlist.com/ico/signalsnetwork
+,GZR,United States,,Yes,https://github.com/GizerInc,Yes,$1.0000,https://tokensale.gizer.io/?utm_source=icowatchlist&utm_campaign=featured_listing,Ethereum,November 30th 2017 To December 10th 2017,,,United States,,"100,000,000",gizer,https://icowatchlist.com/ico/gizer
+"ETH, USD",MDTK,Hong Kong,,No,,Yes,$0.7000,https://mdtokens.com/,Ethereum,,,,United States,,"500,000,000",md-tokens,https://icowatchlist.com/ico/md-tokens
+,,,,,,,,,,,,,,,,cubaaz,https://icowatchlist.com/ico/cubaaz
+ETH,ONL,United Kingdom,,No,https://github.com/OnLivePlatform,,$1.4700,https://on.live/,Ethereum,January 22nd 2018 To February 22nd 2018,,,United States,,"111,000,000",onlive,https://icowatchlist.com/ico/onlive
+,RXL,Seychelles,,No,https://github.com/rxeal,,$1.1250,https://rxeal.com/,Ethereum,January 15th 2018 To February 5th 2018,,,United States,,,rxeal,https://icowatchlist.com/ico/rxeal
+,MLC,Russian Federation,,Yes,,Yes,$0.4000,https://flogmall.com,Ethereum,February 22nd 2018 To March 8th 2018,,,United States,"$23,212,700","250,000,000",flogmall,https://icowatchlist.com/ico/flogmall
+,MZX,Cayman Islands,,Yes,,Yes,$0.0000,https://www.mosaic.io/,Ethereum,February 5th 2018 To February 12th 2018,,,United States,,"1,000,000,000",mosaic,https://icowatchlist.com/ico/mosaic
+,VIOLA,Singapore,,No,https://github.com/ViolaAI,,$0.2000,https://www.viola.ai/,Ethereum,,,,United States,,,violaai,https://icowatchlist.com/ico/violaai
+ETH,iLT,Estonia,,No,,Yes,$0.0200,https://iolite.io/,Ethereum,March 20th 2018 To March 27th 2018,,,United States,,"1,000,000,000",iolite,https://icowatchlist.com/ico/iolite
+ETH,SPEND,Australia,,Yes,https://github.com/MoxyOne/,Yes,$0.9000,https://moxy.one/,Ethereum,February 8th 2018 To March 10th 2018,,,United States,,"50,000,000",moxyone,https://icowatchlist.com/ico/moxyone
+"USD, EUR, BTC, ETH",COTI,Gibraltar,,No,,,$0.2000,https://coti.io/token.html?utm_source=listing&utm_medium=icowatchlist,Other,May 21st 2018 To May 25th 2018,,,United States,"$15,000,000","2,000,000,000",coti,https://icowatchlist.com/ico/coti
+,,,,,,,,,,,,,,,,rentaway,https://icowatchlist.com/ico/rentaway
+"BTC, ETH",NCC,France,,No,,Yes,$0.1000,https://www.neurochaintech.io/,Other,,,,United States,,"395,000,000",neurochain,https://icowatchlist.com/ico/neurochain
+,NVB,Russian Federation,,No,,,$1.0000,http://nvb.digital,Ethereum,,,,United States,,,nativevideobox,https://icowatchlist.com/ico/nativevideobox
+,MDX,Estonia,,No,https://github.com/MidexDev,,$1.0000,https://midex.com/,Ethereum,,,,United States,,,midex,https://icowatchlist.com/ico/midex
+"BTC, ETH",NODE,Latvia,,No,https://github.com/nodepower,Yes,$1.0000,https://nodepower.io/?utm_source=icowatchlist,Ethereum,,,,United States,,"10,000,000",node,https://icowatchlist.com/ico/node
+,,,,,,,,,,,,,,,,bitether,https://icowatchlist.com/ico/bitether
+,,,,,,,,,,,,,,,,blockpix,https://icowatchlist.com/ico/blockpix
+"BTC, ETH, LTC, DASH",HMT,United Kingdom,,No,,Yes,$2.0000,https://hmstr.io/en,Ethereum,,,,United States,,"10,000,000",hamster-marketplace,https://icowatchlist.com/ico/hamster-marketplace
+"BTC, ETH",MTP,Japan,,No,,Yes,$0.1000,https://moneytap.io/,Other,,,,United States,,"500,000,000",moneytap-token,https://icowatchlist.com/ico/moneytap-token
+"BTC, ETH",GIFT,United Kingdom,,Yes,,,$0.0900,https://www.giftcoin.org/,Ethereum,January 1st 2018 To March 19th 2018,,,United States,"$12,870,000","1,000,000,000",giftcoin,https://icowatchlist.com/ico/giftcoin
+,BNE,Virgin Islands (British),,No,https://github.com/benebit/,,$0.2000,https://benebit.io,Not Available,,,,United States,,,benebit,https://icowatchlist.com/ico/benebit
+ETH,XYO,United States,,No,https://github.com/xyoraclenetwork,Yes,$0.0060,https://xyo.network/,Ethereum,,,,United States,,"48,000,000",xyo-network,https://icowatchlist.com/ico/xyo-network
+"BTC, ETH, LTC, USD, EUR, BCH",PON,United States,,Yes,https://github.com/ponder-matchmaking,Yes,$0.2000,https://tokensale.ponderapp.co/,Ethereum,,,,United States,,"480,000,000",ponder,https://icowatchlist.com/ico/ponder
+"BTC, ETH, LTC, USD, EUR",,Singapore,,No,https://github.com/BITCARtoken,Yes,$0.0000,https://bitcar.io,Ethereum,,,,United States,,,bitcar,https://icowatchlist.com/ico/bitcar
+,REXX,Belarus,,No,https://github.com/rexpax,,$0.0065,https://rexpax.com/,Ethereum,,,,United States,,,rexpax,https://icowatchlist.com/ico/rexpax
+"BTC, ETH",DHT,United Kingdom,,No,,Yes,$0.0165,https://dehedge.com/,Ethereum,,,,United States,,"10,000,000,000",dehedge,https://icowatchlist.com/ico/dehedge
+,KRL,France,,No,,,$0.2000,https://kryll.io/,Ethereum,,,,United States,,"72,000,000",kryllio,https://icowatchlist.com/ico/kryllio
+ETH,AUC,Virgin Islands (British),,No,https://github.com/AuctusProject,Yes,$0.4500,https://auctus.org/,Ethereum,,,,"United States, China, Singapore",,"80,000,000",auctus,https://icowatchlist.com/ico/auctus
+ETH,XPST,United States,,No,,Yes,$0.0900,https://www.pokersports.io/,Ethereum,,,,United States,,"500,000,000",pokersports,https://icowatchlist.com/ico/pokersports
+"ETH, BTC, LTC, BCH",SMRT,United Kingdom,,No,https://github.com/SmrtToken/,,$0.2100,https://smartstartuptoken.tech/,Ethereum,,,,United States,,"600,000,000",smrt,https://icowatchlist.com/ico/smrt
+ETH,LND,United Kingdom,,No,https://github.com/lendingblock/?utm_source=icowatchlist&utm_medium=icolisting2&utm_campaign=lendingblock,,$0.0200,https://lendingblock.com/?utm_source=icowatchlist&utm_medium=icolisting2&utm_campaign=lendingblock,Ethereum,April 7th 2018 To April 14th 2018,,,United States,,"1,000,000,000",lendingblock,https://icowatchlist.com/ico/lendingblock
+"BTC, ETH, BCH, LTC",ALX,Cayman Islands,,No,,,$0.0900,https://alax.io/,Ethereum,,,,United States,,"1,000,000,000",alax,https://icowatchlist.com/ico/alax
+ETH,SET,Australia,,No,,Yes,$0.2500,https://www.follex.io/,Ethereum,,,,United States,,"50,000,000",follex,https://icowatchlist.com/ico/follex
+,OTC,Germany,,No,https://github.com/Otcrit,,$0.2400,https://www.otcrit.org,Ethereum,,$0.03,,United States,,,otcrit,https://icowatchlist.com/ico/otcrit
+,PAT,Switzerland,,No,https://github.com/Bit-Nation/ ,,$0.0020,https://bitnation.co/ ,Ethereum,,,,United States,,,bitnation,https://icowatchlist.com/ico/bitnation
+,,,,,,,,,,,,,,,,checqit,https://icowatchlist.com/ico/checqit
+,GLU,Unknown,,No,,,$0.0000,https://gluon.com/,Stratis,,,,United States,,,glu,https://icowatchlist.com/ico/glu
+,DAPG,Russian Federation,,No,https://github.com/demlabsinc,,"$1,200.0000",https://dapcash.org,Other,January 28th 2018 To February 21st 2018,,,United States,,"1,000,000",dapcash,https://icowatchlist.com/ico/dapcash
+,ASTOR,Argentina,,No,,,$1.0000,http://astorgame.com/,Ethereum,,,,United States,,,astorgame,https://icowatchlist.com/ico/astorgame
+,CJT,Gibraltar,,No,https://github.com/connectjob,,$0.1500,https://ico.connectjob.io/?utm_source=icowatchlist,Ethereum,,$0.00,-99.92%,United States,"$10,440,000",,connectjob,https://icowatchlist.com/ico/connectjob
+"BTC, ETH, LTC",XLS,France,,No,https://github.com/GalaxisGeneral,Yes,$0.3500,https://www.galaxis.co/,Ethereum,,,,United States,,"5,000,000,000",galaxis,https://icowatchlist.com/ico/galaxis
+ETH,CRL,Canada,,Yes,,Yes,$0.1000,https://corl.io/,Ethereum,March 3rd 2018 To March 31st 2018,,,United States,,"1,000,000,000",corl,https://icowatchlist.com/ico/corl
+"BTC, ETH, LTC, DASH, BCH",FIC,Thailand,,No,,Yes,$0.1000,https://www.florafic.io/,Ethereum,February 6th 2018 To March 7th 2018,,,United States,,"1,520,000,000",florafic,https://icowatchlist.com/ico/florafic
+ETH,ROX,Slovenia,,Yes,https://github.com/Robotinaico/token,Yes,$0.0500,http://www.robotina.com/,Ethereum,February 21st 2018 To March 21st 2018,,,United States,,"815,000,000",robotina,https://icowatchlist.com/ico/robotina
+,FOXT,Spain,,No,,Yes,$0.6800,https://foxtrading.io/,Ethereum,February 7th 2018 To March 9th 2018,,,United States,,"10,000,000",fox-trading,https://icowatchlist.com/ico/fox-trading
+,CRL,Czech Republic,,No,https://github.com/cryptelo,Yes,$0.0800,https://www.cryptelo.com/,Ethereum,January 19th 2018 To March 5th 2018,,,United States,,"500,000,000",cryptelo,https://icowatchlist.com/ico/cryptelo
+ETH,CRTL,Singapore,,No,,Yes,$0.1000,https://cartelcoin.io/,Ethereum,,,,United States,,"100,000,000",cartel-chain,https://icowatchlist.com/ico/cartel-chain
+"BTC, LTC, BCH, ETH, DASH, USD",MCU,United Kingdom,,Yes,https://github.com/medichain,Yes,$1.0000,https://medichain.online/,Ethereum,,,,United States,,"100,000,000",medichainonline,https://icowatchlist.com/ico/medichainonline
+"BTC, ETH, BCH, LTC, USD, EUR",TCO,Bermuda,,No,,,$0.2100,https://www.thinkcoin.io,Ethereum,April 3rd 2018 To April 16th 2018,,,"United States, China",,"500,000,000",thinkcoin,https://icowatchlist.com/ico/thinkcoin
+"BTC, ETH",WIIX,Canada,,No,,Yes,$0.1100,https://www.wiix.io,Ethereum,,,,United States,,"2,100,000,000",wiix,https://icowatchlist.com/ico/wiix
+"BTC, ETH",ETY,United Arab Emirates,,No,,Yes,$0.2000,https://etherty.com/,Ethereum,February 1st 2018 To March 8th 2018,,,United States,,"250,000,000",etherty,https://icowatchlist.com/ico/etherty
+"BTC, ETH, BCH, EUR, USD",IPS,Switzerland,,No,,,$1.1300,https://ipstock.com/,Ethereum,,,,United States,,"60,000,000",ipstock,https://icowatchlist.com/ico/ipstock
+"BTC, ETH",EEE,Russian Federation,,No,https://github.com/ElementhFoundation,Yes,$0.1800,https://elementh.io,Ethereum,,,,United States,,"303,000,000",elementh,https://icowatchlist.com/ico/elementh
+ETH,DNN,United States,,No,https://github.com/dnnmedia,Yes,$0.3000,https://dnn.media,Ethereum,,,,United States,,"1,000,000,000",decentralized-news-network,https://icowatchlist.com/ico/decentralized-news-network
+"BTC, ETH, LTC, ETC, DASH",KRC,South Africa,,No,https://github.com/KerberosCoin,Yes,$0.1200,https://kerberoscoin.org/,Ethereum,,,,United States,,"10,000,000",kerberos-coin,https://icowatchlist.com/ico/kerberos-coin
+"BTC, ETH",PMNT,Estonia,,No,https://github.com/PaymonTeam/,Yes,$0.0150,https://ico.paymon.org/t/icowatchlist,Ethereum,,,,United States,,"1,000,000,000",paymon,https://icowatchlist.com/ico/paymon
+,CEEK,Virgin Islands (British),,No,,,$0.1500,https://www.ceek.com,Ethereum,March 26th 2018 To April 16th 2018,,,United States,"$17,300,000",,ceek,https://icowatchlist.com/ico/ceek
+"BTC, ETH",NKL,Australia,,Yes,https://github.com/NickelCoin,,$0.4000,https://nickelcoin.co,Ethereum,April 12th 2018 To April 23rd 2018,,,United States,,"40,000,000",nickelcoin,https://icowatchlist.com/ico/nickelcoin
+ETH,ITM,United Kingdom,,Yes,https://github.com/intimatetoken,Yes,$1.0000,https://intimate.io,Ethereum,,,,United States,,"100,000,000",intimateio,https://icowatchlist.com/ico/intimateio
+ETH,ELI,Slovenia,,No,https://github.com/Eligma/Eligma,,$0.1000,https://www.eligma.io,Ethereum,March 20th 2018 To April 10th 2018,,,United States,,"500,000,000",eligma,https://icowatchlist.com/ico/eligma
+"BTC, ETH, LTC, ETC, BCH",PAT,Japan,,No,https://gist.github.com/patron-ico/bfe89d6404e870aa68b0953ae9beea7c,Yes,$0.1400,https://patron-ico.io/,Ethereum,,,,United States,,"400,000,000",patron,https://icowatchlist.com/ico/patron
+"ETH, USD, EUR",MVP,United Kingdom,,No,,,$0.1700,https://blocside.io/,Ethereum,,,,United States,,"500,000,000",blocside-sports,https://icowatchlist.com/ico/blocside-sports
+,,,,,,,,,,,,,,,,nexusless,https://icowatchlist.com/ico/nexusless
+"BTC, ETH, USD",OMX,Isle of Man,,No,,Yes,$0.1000,https://www.shivom.io/,Ethereum,April 16th 2018 To April 27th 2018,,,United States,"$35,000,000",,shivom,https://icowatchlist.com/ico/shivom
+ETH,PLAT,United States,,No,,,$0.0100,http://www.bitguild.io,Ethereum,,,,United States,,"10,000,000,000",bitguild,https://icowatchlist.com/ico/bitguild
+"BTC, ETH, LTC",LNS,Brazil,,No,https://github.com/Lunes-platform,Yes,$0.0100,https://lunes.io/,Other,February 25th 2018 To March 30th 2018,,,United States,,"600,000,000",lunes-platform,https://icowatchlist.com/ico/lunes-platform
+"BTC, ETH",AMBT,Georgia,,Yes,https://github.com/cyberioni/ambitmining-token,,$0.5000,https://www.ambitmining.io/,Ethereum,April 10th 2018 To April 17th 2018,,,United States,,"104,000,000",ambit,https://icowatchlist.com/ico/ambit
+"BTC, ETH",Arcona,Gibraltar,,No,https://github.com/ArconaEcosystem/arcona-system,,$1.0000,https://www.arcona.io/index.html,Ethereum,,,,United States,,"125,000,000",arcona,https://icowatchlist.com/ico/arcona
+,eFIC,United States,,No,,,$0.1000,https://www.ficnetwork.com,Ethereum,,,,United States,,,ficnetwork,https://icowatchlist.com/ico/ficnetwork
+ETH,EMAC,Bulgaria,,No,https://github.com/eMarketChain/EMAC,Yes,$0.0500,https://emarketchain.co/,Other,,,,United States,,"363,000,000",emarketchain,https://icowatchlist.com/ico/emarketchain
+,BBT,Gibraltar,,No,,,$0.6000,https://www.brickblock.io/,Ethereum,,$0.01,,United States,,"320,000,000",brickblock,https://icowatchlist.com/ico/brickblock
+"BTC, ETH, LTC, USD, DASH, XRP, XMR, ETC",CRGO,United Kingdom,,Yes,https://github.com/thecargocoin/cargocoin,,$0.5000,https://thecargocoin.com/a057,Ethereum,April 1st 2018 To April 15th 2018,,,United States,,"100,000,000",cargocoin,https://icowatchlist.com/ico/cargocoin
+"BTC, ETH",SPD,United Kingdom,,No,https://github.com/spindlezone,,$0.1650,https://spindle.zone/en/,Ethereum,,$0.00,,United States,,"10,000,000,000",spindle,https://icowatchlist.com/ico/spindle
+,RLTY,United States,,No,,,$0.8000,http://www.smartrealty.io,Ethereum,January 15th 2018 To February 14th 2018,,,United States,,"500,000,000",smartrealty,https://icowatchlist.com/ico/smartrealty
+"BTC, ETH, LTC, DASH, BCH, XMR, XRP, ETC",WPT,Switzerland,,No,https://github.com/Worldopoly/Worldopoly/,Yes,$0.1200,https://worldopoly.io,Ethereum,April 2nd 2018 To April 23rd 2018,,,United States,,"200,000,000",worldopoly,https://icowatchlist.com/ico/worldopoly
+,STT,Switzerland,,No,,,$1.0000,https://synthestech.com,Ethereum,,,,United States,,,synthestech,https://icowatchlist.com/ico/synthestech
+,WT,Singapore,,No,https://github.com/World-WiFi,Yes,$0.1000,https://en.worldwifi.io/?cpa_channel=icowatchlist&utm_source=icowatchlist&utm_medium=icowatchlist&utm_campaign=icowatchlis,Ethereum,November 28th 2017 To April 16th 2018,,,United States,,"600,000,000",worldwifi,https://icowatchlist.com/ico/worldwifi
+"BTC, ETH, DASH, BCH",GOL,Serbia,,No,https://github.com/Goldiamchain/Goldiam-ICO-Smart-Contracts,Yes,$0.5380,https://goldiam.io,Ethereum,March 20th 2018 To April 8th 2018,,,United States,,"32,300,000",goldiam,https://icowatchlist.com/ico/goldiam
+,DREAM,Ukraine,"$21,000,000",No,https://github.com/dreamteamgg/smart-contract,,$0.1500,https://token.dreamteam.gg/?utm_source=icowatchlist&utm_medium=list&utm_campaign=crypto_lt_icowatchlist,Ethereum,,$0.07,-53.79%,United States,"$10,000,000",,dreamteam,https://icowatchlist.com/ico/dreamteam
+,MIRA,Singapore,,No,,,$1.0000,https://miralab.io/,Ethereum,,,,United States,,,mira,https://icowatchlist.com/ico/mira
+"BTC, ETH",FRYA,Switzerland,,No,,Yes,$0.0900,https://frya.io,Ethereum,,,,United States,,"100,000,000",frya,https://icowatchlist.com/ico/frya
+ETH,WEM,Latvia,,No,,,$0.7000,https://etb.lv/,Ethereum,,,,United States,,"34,000,000",windenergymining,https://icowatchlist.com/ico/windenergymining
+,UBT,Germany,"$13,542,375",No,,,$0.1400,https://unibright.io/,Ethereum,,,,United States,,"150,000,000",unibright,https://icowatchlist.com/ico/unibright
+ETH,LIKE,Hong Kong,,No,https://github.com/likecoin/,Yes,$0.0100,https://like.co,Ethereum,,,,United States,"$5,407,016","2,000,000,000",likecoin,https://icowatchlist.com/ico/likecoin
+"BTC, ETH",CMCT,Cayman Islands,,No,,Yes,$0.0000,https://crowdmachine.com,Ethereum,February 1st 2018 To March 31st 2018,,,"United States, Cuba, Iran (Islamic Republic of), Korea, Republic of, Lebanon, Libyan Arab Jamahiriya, Somalia, Sudan, Syrian Arab Republic",,"2,000,000,000",crowd-machine,https://icowatchlist.com/ico/crowd-machine
+,RTC,Hong Kong,,No,https://github.com/Rentything,Yes,$0.1000,https://rentything.com/,Ethereum,February 28th 2018 To March 28th 2018,,,United States,,"50,000,000",renything,https://icowatchlist.com/ico/renything
+ETH,MVL,Singapore,,No,https://github.com/mvlchain,,$0.0033,https://mvlchain.io,Ethereum,April 26th 2018 To May 11th 2018,,,United States,,"30,000,000,000",mass-vehicle-ledger,https://icowatchlist.com/ico/mass-vehicle-ledger
+ETH,GAI,Virgin Islands (British),,No,,Yes,$0.1000,http://graphgrail.com,Ethereum,,,,United States,,"100,000,000",graphgrail-ai,https://icowatchlist.com/ico/graphgrail-ai
+,SMOKE,Belize,,No,https://github.com/smokenetwork,Yes,$0.1000,https://smoke.network,Other,,$0.04,,United States,,"350,000,000",smoke,https://icowatchlist.com/ico/smoke
+"BTC, ETH",BUNNY,Seychelles,,No,,Yes,$0.0900,https://bunnytoken.com,Ethereum,March 13th 2018 To April 24th 2018,,,United States,,"1,000,000,000",bunnytoken,https://icowatchlist.com/ico/bunnytoken
+ETH,MMTM,Switzerland,,Yes,,Yes,$0.1200,https://momentumtoken.io/,Ethereum,February 16th 2018 To March 23rd 2018,,,United States,,"1,000,000,000",mobilebridge,https://icowatchlist.com/ico/mobilebridge
+ETH,CADV,Switzerland,,Yes,https://github.com/coinadvisor,Yes,$0.7000,https://www.coinadvisor.pro,Ethereum,,,,United States,,"25,000,000",coinadvisor,https://icowatchlist.com/ico/coinadvisor
+"BTC, ETH, USD",TSR,Switzerland,,No,https://github.com/Transcrypt/TSRTokens,Yes,$0.3000,https://tsrpay.com/,Ethereum,,,,United States,,"100,000,000",transcrypt,https://icowatchlist.com/ico/transcrypt
+"BTC, ETH, LTC, DASH, XMR",XSO,Panama,,No,,Yes,$0.8000,https://xsolus.com/,Other,,,,United States,,"50,000,000",xsolus,https://icowatchlist.com/ico/xsolus
+"BTC, ETH",DTC,Belize,,No,https://github.com/datecoin/DateCoin,Yes,$0.1870,http://datecoin.io/?lang=en&utm_source=icowatchlist&utm_medium=icowatchlist&utm_campaign=icowatchlist,Ethereum,,,,"United States, China",,"290,769,231",datecoin,https://icowatchlist.com/ico/datecoin
+ETH,ADBL,United Kingdom,,No,,,$0.1000,https://adblurb.io,Ethereum,March 1st 2018 To March 30th 2018,,,United States,,"100,000,000",adblurb,https://icowatchlist.com/ico/adblurb
+"BTC, ETH, BCH",ZFL,Estonia,,No,,,$0.3600,https://www.zuflo.io/en,Ethereum,February 22nd 2018 To April 30th 2018,,,United States,,"500,000,000",zufloio,https://icowatchlist.com/ico/zufloio
+ETH,IRYO,Slovenia,,No,https://github.com/iryonetwork,Yes,$0.1100,https://iryo.network/#network,Other,March 28th 2018 To April 4th 2018,,,United States,"$15,800,000","300,000,000",iryo,https://icowatchlist.com/ico/iryo
+ETH,GOC,United States,,Yes,,Yes,$0.0200,https://gochain.io/,Ethereum,May 1st 2018 To May 15th 2018,,,United States,"$18,209,475","1,000,000,000",gochain,https://icowatchlist.com/ico/gochain
+,DIW,Marshall Islands,,Yes,https://github.com/diwglobal,,$0.0700,https://diwtoken.com/,Ethereum,March 6th 2018 To March 20th 2018,,,United States,,"1,000,000,000",diw-token,https://icowatchlist.com/ico/diw-token
+"BTC, ETH",BIRD,Estonia,,No,https://github.com/Birdchain,Yes,$0.0140,https://www.birdchain.io/,Ethereum,,,,United States,,"580,263,158",birdchain,https://icowatchlist.com/ico/birdchain
+ETH,JOI,Thailand,,No,,,$0.0900,https://jointedu.io,Ethereum,March 1st 2018 To April 15th 2018,,,United States,,"270,000,000",jointedu,https://icowatchlist.com/ico/jointedu
+"BTC, ETH, LTC",BTF,United Kingdom,,No,,,$0.0800,https://bitrust.co.uk/,Ethereum,March 5th 2018 To March 31st 2018,,,United States,,"250,000,000",bitrust,https://icowatchlist.com/ico/bitrust
+"BTC, ETH, LTC, USD, EUR",BPS,Russian Federation,,No,,Yes,$0.2500,http://bitproperty.online/,Ethereum,March 30th 2018 To April 15th 2018,,,United States,,"80,000,000",bitproperty,https://icowatchlist.com/ico/bitproperty
+"BTC, LTC, ETH, DASH, BCH",A2A,Saint Vincent and the Grenadines,,No,,Yes,$0.1200,https://stex.exchange/,Ethereum,,,,United States,,"500,000,000",stex-exchange,https://icowatchlist.com/ico/stex-exchange
+"BTC, ETH",CUZ,Israel,,No,https://github.com/cool-cousin,Yes,$0.1590,https://www.coolcousin.com/ico/,Ethereum,,,,United States,,"300,000,000",cool-cousin,https://icowatchlist.com/ico/cool-cousin
+"BTC, ETH, LTC, USD",SLT,Singapore,,No,,,$0.8000,https://successlife.com/,Other,,,,"United States, Afghanistan, Belarus, Congo, Iraq, Korea, Democratic People's Republic of, Liberia, Sudan, Syrian Arab Republic",,"100,000,000",successlife,https://icowatchlist.com/ico/successlife
+,FAN,United States,,Yes,,Yes,$0.0500,https://fcfl.io/,Ethereum,January 29th 2018 To February 28th 2018,,,United States,,"1,000,000,000",fcfl,https://icowatchlist.com/ico/fcfl
+"BTC, ETH, LTC, USD, EUR, BCH, DASH",VIC,Ireland,,No,https://github.com/virtonomics/vicoin,,$0.8000,https://virtonomics.com,Ethereum,February 1st 2018 To February 28th 2018,,,United States,,"800,000,000",virtonomics,https://icowatchlist.com/ico/virtonomics
+,TNS,United Kingdom,,No,https://github.com/transcodium,,$0.3760,https://transcodium.com,Ethereum,,$0.00,,United States,,,transcodium,https://icowatchlist.com/ico/transcodium
+"BTC, ETH",GMBC,Malta,,Yes,https://github.com/modjke/ico-smart-contract,,$0.0900,https://gamblica.com/,Ethereum,,,,United States,,"840,000,000",gamblica,https://icowatchlist.com/ico/gamblica
+"BTC, ETH, USD",BMT,United States,,Yes,,Yes,$0.0200,https://www.bitminutes.com,Ethereum,,,,United States,,"3,500,000,000",bitminutes,https://icowatchlist.com/ico/bitminutes
+ETH,KNT,Hong Kong,,No,https://github.com/koranetwork,Yes,$0.1000,http://www.kora.network,Ethereum,March 5th 2018 To March 25th 2018,$0.00,-96.47%,United States,"$12,000,000","712,500,000",koranetwork,https://icowatchlist.com/ico/koranetwork
+,EOS,Unknown,,No,http://github.com/eosio,,$0.0000,https://eos.io,Ethereum,,$4.29,,United States,"$4,100,000,000","10,000,000,000",eos,https://icowatchlist.com/ico/eos
+,SAF,Russian Federation,,No,,,$1.0000,https://www.safinus.com/,Ethereum,January 23rd 2018 To February 14th 2018,,,United States,,,safinus,https://icowatchlist.com/ico/safinus
+,ETA,Switzerland,,No,https://github.com/Etheera,,$0.0000,https://www.etheera.com/,Ethereum,,,,United States,,"75,000,000,000",etheera,https://icowatchlist.com/ico/etheera
+"BTC, ETH",CC,Austria,,No,https://github.com/oroundo-mobile/CP-ICO,Yes,$0.0150,https://www.culturalplaces.com/,Ethereum,February 26th 2018 To March 4th 2018,,,United States,,"1,500,000,000",cultural-places,https://icowatchlist.com/ico/cultural-places
+ETH,SQoin,Lithuania,,No,,Yes,$0.0340,https://stasyq.io,Ethereum,,,,United States,,"350,000,000",stasyq,https://icowatchlist.com/ico/stasyq
+,TOPIA,United States,,No,,,$1.0000,https://topiacoin.io/,Ethereum,,,,United States,,,topiacoin,https://icowatchlist.com/ico/topiacoin
+"BTC, ETH, LTC, BCH",IMT,United Kingdom,,No,https://github.com/MoneyToken/,Yes,$0.0050,https://moneytoken.com/?utm_source=icowatchlist&utm_medium=listing,Ethereum,March 22nd 2018 To May 1st 2018,,,United States,,"22,500,000,000",moneytoken,https://icowatchlist.com/ico/moneytoken
+"BTC, ETH, BCH",COIL,United States,,Yes,,Yes,$0.0500,https://www.coinoil.io,Ethereum,February 23rd 2018 To March 23rd 2018,,,United States,,"2,000,000,000",coinoil,https://icowatchlist.com/ico/coinoil
+"BTC, ETH, LTC",WRT,Norway,,No,,,$0.1300,https://whiterabbit.one/,Ethereum,May 7th 2018 To May 14th 2018,,,United States,,"190,000,000",white-rabbit,https://icowatchlist.com/ico/white-rabbit
+"ETH, BTC, BCH, LTC, ETC, DASH",MTV,Belarus,,Yes,,,$1.0000,https://www.multiversum.io,Other,March 1st 2018 To March 31st 2018,,,United States,,"141,000,000",multiversum,https://icowatchlist.com/ico/multiversum
+"ETH, BTC, LTC",GIF,Bulgaria,,No,,Yes,$0.0900,https://www.gifcoin.io/?utm_source=icowatchlist,Ethereum,February 22nd 2018 To March 15th 2018,,,United States,,"300,000,000",gifcoin,https://icowatchlist.com/ico/gifcoin
+"BTC, ETH, LTC, ZEC",CRD,Hungary,,No,https://github.com/crydeio,,$0.1730,https://cryde.io,Ethereum,April 23rd 2018 To May 7th 2018,,,United States,,"100,000,000",cryde,https://icowatchlist.com/ico/cryde
+"ETH, BTC, USD",CRS,Ukraine,,No,https://github.com/crystalslove/Crystals-Love,Yes,$0.1000,https://www.crystals.io/,Ethereum,,,,United States,,"247,000,000",crystals,https://icowatchlist.com/ico/crystals
+ETH,ANK,Poland,,No,https://github.com/airchainnetwork/,Yes,$0.0069,https://airchain.network/,Ethereum,April 23rd 2018 To May 1st 2018,,,United States,,"1,000,000,000",airchain-network,https://icowatchlist.com/ico/airchain-network
+ETH,FLIX,Barbados,,No,,Yes,$0.4000,https://cryptoflix.io/,Ethereum,,,,United States,,"100,000,000",cryptoflix,https://icowatchlist.com/ico/cryptoflix
+ETH,BINK,United States,,Yes,https://github.com/binkd,Yes,$0.1000,https://www.binkd.com/,Ethereum,March 15th 2018 To March 15th 2018,,,United States,,"625,000,000",binkd,https://icowatchlist.com/ico/binkd
+ETH,BHM,France,,No,,,$0.0500,https://bhom.io/,Ethereum,,,,United States,,"110,000,000",bhom,https://icowatchlist.com/ico/bhom
+,BRM,Belarus,,No,https://github.com/Bioritmai,,$1.8000,https://bioritmai.com/en/,Ethereum,,$0.01,,United States,,,bioritmai,https://icowatchlist.com/ico/bioritmai
+ETH,BFDT,Singapore,,No,,,$0.0700,https://www.befund.io,Ethereum,,,,"United States, China",,"500,000,000",befund,https://icowatchlist.com/ico/befund
+"BTC, ETH, USD, EUR",QYK,Singapore,,No,,Yes,$0.0100,https://qykbar.io/,Ethereum,March 31st 2018 To April 22nd 2018,,,United States,,"6,000,000,000",qykbar,https://icowatchlist.com/ico/qykbar
+"BTC, ETH, EUR, USD",TECT,Switzerland,,No,https://github.com/cryptectum,Yes,$1.0000,https://www.cryptectum.com,Ethereum,,,,United States,,"80,000,000",cryptectum,https://icowatchlist.com/ico/cryptectum
+ETH,DACC,China,,No,https://github.com/DecentralizedAccessibleContentChain/dac-ios,Yes,$0.0028,http://dacc.co/,Ethereum,,,,United States,,"30,000,000,000",decentralized-audio-content,https://icowatchlist.com/ico/decentralized-audio-content
+"ETH, BTC",ETD,Australia,,No,,Yes,$0.1200,http://earthmedz.io,Ethereum,,,,United States,,"200,000,000",earthmedz,https://icowatchlist.com/ico/earthmedz
+"BTC, ETH",SOOM,Singapore,,No,https://github.com/soom-4th-blockchain/soom-core,,$0.0000,http://fourthblockchain.org/,Other,,,,United States,,"1,438,000,000",soom-blockchain,https://icowatchlist.com/ico/soom-blockchain
+,DEED,United States,,Yes,https://github.com/TeamDeedCoin/DeedCoin,Yes,$1.5000,https://deedcoinlaunch.com,Ethereum,February 19th 2018 To March 19th 2018,,,United States,,"30,000,000",deedcoin,https://icowatchlist.com/ico/deedcoin
+ETH,OAK,United Kingdom,,No,https://github.com/TheAcornCollective,,$1.4000,https://www.aco.ai/,Ethereum,,,,"United States, China","$26,150,000","25,000,000",acorn-collective,https://icowatchlist.com/ico/acorn-collective
+ETH,WEE,Bulgaria,,No,https://github.com/weevocity/ICO,Yes,$0.0700,http://ico.weevo.city/,Ethereum,March 26th 2018 To April 25th 2018,,,United States,,"1,100,000,000",weevocity,https://icowatchlist.com/ico/weevocity
+"BTC, ETH, LTC, USD, EUR",CMA,Australia,,No,,Yes,$0.2000,https://coinmineaustralia.com,Ethereum,March 19th 2018 To April 16th 2018,,,United States,,"150,000,000",coin-mine-australia,https://icowatchlist.com/ico/coin-mine-australia
+ETH,SAVG,United States,,No,https://github.com/savagetoken/SavageToken,,$0.0012,https://www.savagetoken.com,Ethereum,,,,United States,,"40,000,000,000",savage-token,https://icowatchlist.com/ico/savage-token
+ETH,ICST,Singapore,,No,https://github.com/icstglobal,,$0.0500,http://icst.io/,Ethereum,,,,United States,"$2,480,000","900,000,000",icst,https://icowatchlist.com/ico/icst
+ETH,PTH,Seychelles,,No,,Yes,$0.1000,http://prether.co/,Ethereum,,,,United States,,"100,000,000",prether,https://icowatchlist.com/ico/prether
+,ADM,Ireland,,No,https://github.com/adamant-im,Yes,$0.2400,https://adamant.im/,Other,,,,United States,,"98,000,000",adamant-messenger,https://icowatchlist.com/ico/adamant-messenger
+,WELL,United States,,No,https://github.com/joinwell,,$0.1000,https://www.joinwell.io,Ethereum,,$0.00,-96.70%,United States,"$15,960,000",,well,https://icowatchlist.com/ico/well
+"BTC, ETH",TRW,Norway,,No,https://github.com/triwer/triwer-solidity,Yes,$0.0800,https://www.triwer.io,Ethereum,,,,United States,,"1,000,000,000",triwer,https://icowatchlist.com/ico/triwer
+"ETH, BTC, LTC, DASH, EUR, USD, XRP",EQUI,United Kingdom,,No,,,$0.5000,https://equi.capital,Ethereum,March 1st 2018 To March 15th 2018,,,United States,,"250,000,000",equi,https://icowatchlist.com/ico/equi
+ETH,LTS,Chile,,No,https://github.com/lotuscore,,$0.0130,https://lotuscore.io/,Ethereum,March 21st 2018 To April 21st 2018,,,United States,,"1,000,000,000",lotus-core,https://icowatchlist.com/ico/lotus-core
+ETH,RAC,Malta,,No,,,$10.0000,http://www.robet.io/,Ethereum,February 1st 2018 To April 19th 2018,,,United States,,"3,200,000",robet,https://icowatchlist.com/ico/robet
+"BTC, ETH, USD, EUR",GREM+GRET,United Arab Emirates,,No,,,$0.0700,http://globalreit.io,Ethereum,May 1st 2018 To May 31st 2018,,,United States,"$14,000,000","275,000,000",global-reit,https://icowatchlist.com/ico/global-reit
+"ETH, BTC, USD, EUR",GBT,Cayman Islands,,No,https://github.com/Globatalent,Yes,$0.0700,https://globatalent.com/,Ethereum,April 16th 2018 To May 31st 2018,,,"United States, Belarus, Burundi, Cayman Islands, Central African Republic, China, Cuba, Iran (Islamic Republic of), Korea, Republic of, Somalia, Sudan, Syrian Arab Republic, Zimbabwe",,"1,000,000,000",globatalent,https://icowatchlist.com/ico/globatalent
+"BTC, ETH, USD, EUR",KON,Switzerland,,No,,,$0.0100,https://www.konios.com,Ethereum,March 1st 2018 To March 31st 2018,,,United States,,"5,000,000,000",konios,https://icowatchlist.com/ico/konios
+ETH,AST,Israel,,No,,,$0.8000,https://all-stocks.net/,Ethereum,April 15th 2018 To April 30th 2018,,,United States,,"50,000,000",all-stocks-network,https://icowatchlist.com/ico/all-stocks-network
+,CHIP,Malta,,No,https://github.com/RealCasino,,$0.0100,https://realcasino.io/,Ethereum,February 10th 2018 To April 30th 2018,$0.00,,United States,,,realcasino,https://icowatchlist.com/ico/realcasino
+,PGC,United States,,No,,Yes,$1.0000,https://www.paygine.com/,Other,December 25th 2017 To February 28th 2018,,,United States,,"151,750,000",paygine,https://icowatchlist.com/ico/paygine
+ETH,TCH,China,,No,,,$0.0500,https://www.teachercoin.co/,Ethereum,,,,United States,,"500,000,000",teacher-coin,https://icowatchlist.com/ico/teacher-coin
+ETH,TBT,Australia,,No,,,$0.0900,http://www.tripbit.info,Ethereum,March 21st 2018 To April 24th 2018,,,United States,,"700,000,000",tripbit,https://icowatchlist.com/ico/tripbit
+"BTC, ETH",WINS,Cyprus,,No,,,$0.2000,https://winstars.io,Ethereum,,,,United States,,"150,000,000",winstars,https://icowatchlist.com/ico/winstars
+ETH,DZC,Japan,,Yes,,Yes,$0.0079,https://dreampay.jp/dzoneico/index_en.html,Ethereum,,,,United States,,"50,000,000,000",d-zone-coin,https://icowatchlist.com/ico/d-zone-coin
+ETH,DTX,Belgium,,No,https://github.com/DataBrokerDAO,Yes,$0.2300,https://databrokerdao.com/,Ethereum,March 19th 2018 To March 25th 2018,,,United States,"$3,750,000","225,000,000",databroker-dao,https://icowatchlist.com/ico/databroker-dao
+ETH,ESS,Switzerland,,Yes,https://github.com/essentiaone,Yes,$0.0430,https://essentia.one/,Ethereum,March 15th 2018 To June 1st 2018,$0.00,-96.74%,"United States, China","$25,500,000","1,755,313,373",essentia,https://icowatchlist.com/ico/essentia
+"BTC, ETH",CIF,Hong Kong,,No,,,$0.8000,https://www.crowdif.com/,Ethereum,,,,United States,,"41,500,000",crowdif,https://icowatchlist.com/ico/crowdif
+"BTC, ETH",XSE,Norway,,No,,,$0.4000,https://xsearch.io,Ethereum,May 9th 2018 To June 9th 2018,,,United States,,"30,000,000",xsearch,https://icowatchlist.com/ico/xsearch
+ETH,DTT,United States,,No,https://github.com/DTToken,Yes,$0.4000,https://delphifund.org,Ethereum,April 14th 2018 To April 30th 2018,,,United States,,"600,000,000",delphi-technologies-token,https://icowatchlist.com/ico/delphi-technologies-token
+ETH,NH,Denmark,,No,,,$1.9200,http://www.nihilum.io/,Ethereum,,,,United States,,,nihilum,https://icowatchlist.com/ico/nihilum
+"BTC, ETH, LTC",MDX,Cayman Islands,,No,https://github.com/MandalaPlatform,Yes,$0.0700,https://mandalaex.com,Ethereum,April 21st 2018 To May 31st 2018,,,United States,"$18,200,000","400,000,000",mandala,https://icowatchlist.com/ico/mandala
+ETH,FNT,Norway,,No,,Yes,$0.0500,https://friendup.cloud,Ethereum,,,,United States,,"2,000,000,000",friendup,https://icowatchlist.com/ico/friendup
+"BTC, ETH",ODY,France,,No,https://github.com/Odyfund/ICO,,$0.0000,https://odyfund.org,Ethereum,April 15th 2018 To May 15th 2018,,,United States,,,odyfund,https://icowatchlist.com/ico/odyfund
+"BTC, ETH, USD",VRN,Bulgaria,,No,https://github.com/Vernam-ICO,Yes,$0.0850,https://www.vernam.com/,Ethereum,May 15th 2018 To June 4th 2018,,,United States,,"1,000,000,000",vernam,https://icowatchlist.com/ico/vernam
+"BTC, ETH",ABCS,United States,,No,https://github.com/abacasXchange,,$1.0000,https://token.abacasexchange.com/,Ethereum,,,,United States,,"100,000,000",abacasxchange,https://icowatchlist.com/ico/abacasxchange
+,BEAT,Germany,,No,,Yes,$0.1200,https://beat.sportalliance.com,Ethereum,January 23rd 2018 To February 20th 2018,,,United States,,"230,000,000,000",beat,https://icowatchlist.com/ico/beat
+"BTC, ETH",KEP,Georgia,,No,https://github.com/KeplerTek/Kepler-Token,,$1.2500,https://keplertek.org/,Ethereum,May 22nd 2018 To June 5th 2018,,,United States,"$7,800,000","100,000,000",kepler-technologies,https://icowatchlist.com/ico/kepler-technologies
+ETH,FTEC,United Kingdom,,No,https://github.com/FtecFoundation,Yes,$0.0150,https://ftec.ai/,Ethereum,April 24th 2018 To May 22nd 2018,,,United States,,"998,400,000",ftec,https://icowatchlist.com/ico/ftec
+"BTC, ETH, DASH, LTC",PERA,Singapore,,Yes,,,$0.0100,http://payera.io,Ethereum,May 30th 2018 To June 20th 2018,,,United States,,"2,100,000,000",payera,https://icowatchlist.com/ico/payera
+ETH,LUK,Gibraltar,,No,https://github.com/Luckchemy/Luckchemy,Yes,$0.0400,https://ico.luckchemy.com/,Ethereum,April 30th 2018 To May 21st 2018,,,United States,,"1,000,000,000",luckchemy,https://icowatchlist.com/ico/luckchemy
+ETH,GANA,Estonia,,No,https://github.com/GanaProject,,$0.0250,https://ganacoin.io/,Ethereum,,,,"United States, Bolivia, China, Cuba, Ecuador, Indonesia, Iran (Islamic Republic of), Ivory Coast, Korea, Republic of, Lebanon, Morocco, Myanmar, Namibia, Nepal, Pakistan, Singapore, Syrian Arab Republic, Vietnam",,"2,400,000,000",gana,https://icowatchlist.com/ico/gana
+,ATK,Russian Federation,,No,,Yes,$1.0000,https://www.inautoclub.com/en/,Graphene,February 25th 2018 To March 18th 2018,,,United States,,"60,187,847",iac-autounit,https://icowatchlist.com/ico/iac-autounit
+ETH,TYPE,United Kingdom,,No,https://github.com/Typerium/TYPEProtocol,,$0.0100,https://typerium.io,Ethereum,May 21st 2018 To June 25th 2018,,,United States,,"2,000,000,000",typerium,https://icowatchlist.com/ico/typerium
+"BTC, ETH",YUM,Virgin Islands (British),,No,,Yes,$0.1000,http://www.yumerium.com,Ethereum,,,,"United States, China","$3,000,000","818,274,853",yumerium,https://icowatchlist.com/ico/yumerium
+"BTC, ETH",TTV,Germany,,No,https://github.com/tvtwocom,Yes,$0.0700,https://tv-two.com/,Ethereum,,,,United States,,"666,666,667",tv-two,https://icowatchlist.com/ico/tv-two
+ETH,REFER,Australia,,No,https://github.com/yashartp/Plentix,Yes,$0.0200,https://plentix.io,Ethereum,,,,United States,,"400,000,000",plentix,https://icowatchlist.com/ico/plentix
+"BTC, XRP, ETH, BCH, DASH, LTC",CHBR,Brazil,,No,https://github.com/CriptoHub,,$0.3000,https://ico.criptohub.com.br/,Ethereum,,,,United States,,"100,000,000",criptohub,https://icowatchlist.com/ico/criptohub
+,VLR,United States,"$15,000,000",No,https://github.com/ValoremFoundation,,$1.5000,https://advalorem.io/,Ethereum,,$0.03,-97.69%,United States,"$19,110,000",,valoremfoundation,https://icowatchlist.com/ico/valoremfoundation
+"BTC, ETH, BCH",COT,Venezuela,,Yes,https://github.com/coinet,,$0.5000,https://www.coinet.network/,Other,,,,United States,,"10,000,000",coinet,https://icowatchlist.com/ico/coinet
+,,,,,,,,,,,,,,,,iaqua,https://icowatchlist.com/ico/iaqua
+"ETH, BTC",LBT,Russian Federation,,No,https://github.com/lendsbaycorp,Yes,$0.3000,https://lendsbay.io/,Ethereum,,,,"United States, China",,"100,000,000",lendsbay,https://icowatchlist.com/ico/lendsbay
+"BTC, ETH, BCH, LTC, EUR, XMR",AVINOC,Hong Kong,,No,https://github.com/AVINOCICO,Yes,$0.0500,https://www.avinoc.com,Ethereum,June 20th 2018 To July 13th 2018,,,United States,,"1,000,000,000",avinoc,https://icowatchlist.com/ico/avinoc
+ETH,PT,Israel,,Yes,,Yes,$0.0400,https://www.playtness.io/,Ethereum,March 15th 2018 To June 30th 2018,,,United States,,"2,421,551,331",playtness,https://icowatchlist.com/ico/playtness
+,,,,,,,,,,,,,,,,kasko2go,https://icowatchlist.com/ico/kasko2go
+"BTC, ETH, USD, EUR",FLEX,Germany,,Yes,,Yes,$0.0850,https://ico.trustedcars.com/,Ethereum,May 23rd 2018 To May 30th 2018,,,United States,,"800,000,000",trustedcars-flex,https://icowatchlist.com/ico/trustedcars-flex
+"BTC, ETH",DEC,Switzerland,,No,https://github.com/darico-coin,Yes,$0.5000,http://darico.io,Ethereum,,$0.10,,United States,,"120,000,000",darico,https://icowatchlist.com/ico/darico
+ETH,C4F,Hong Kong,,No,,Yes,$0.0000,https://www.coins4favors.com,Ethereum,May 15th 2018 To May 31st 2018,,,United States,,"100,000,000,000",coins4favors,https://icowatchlist.com/ico/coins4favors
+ETH,FANZ,Cayman Islands,,No,https://github.com/SportsCastrFanchain,,$0.0000,https://FanChain.com,Ethereum,,,,United States,,"600,000,000",sportscastr-fanchain,https://icowatchlist.com/ico/sportscastr-fanchain
+,XPR,Netherlands,,No,,Yes,$0.2200,https://pr.network/landing,Other,April 20th 2018 To May 2nd 2018,,,United States,,"100,000,000",pr-network,https://icowatchlist.com/ico/pr-network
+"BTC, ETH",BANG,Russian Federation,,No,,,$0.2500,https://bountyangels.com/,Ethereum,April 16th 2018 To May 16th 2018,,,United States,,"20,000,000",bounty-angels,https://icowatchlist.com/ico/bounty-angels
+"BTC, ETH",LIC,Malta,,No,https://github.com/LigerCoin/Contracts/blob/master/LigerToken.sol,,$0.0310,https://www.ligercoin.com/,Ethereum,April 18th 2018 To June 16th 2018,,,,,"2,700,000,000",ligercoin,https://icowatchlist.com/ico/ligercoin
+ETH,STAR,Singapore,,No,,Yes,$0.2400,https://starflow.com/,Ethereum,March 5th 2018 To July 3rd 2018,,,United States,,"400,000,000",starflow,https://icowatchlist.com/ico/starflow
+ETH,DTN,United Kingdom,,No,https://github.com/datareum/,,$0.0300,https://www.datareum.net/,Ethereum,,,,United States,,"1,000,000,000",datareum,https://icowatchlist.com/ico/datareum
+,STM,Singapore,,No,https://github.com/streamity,,$0.2000,https://streamity.org/,Ethereum,March 12th 2018 To March 25th 2018,,,United States,,,streamity,https://icowatchlist.com/ico/streamity
+,,,,,,,,,,,,,,,,botchain,https://icowatchlist.com/ico/botchain
+"BTC, ETH",CODX,United States,,Yes,,Yes,$0.0550,https://codexprotocol.com,Ethereum,,,,"United States, China",,"1,000,000,000",codex-protocol,https://icowatchlist.com/ico/codex-protocol
+"BTC, ETH, DASH, ETC, LTC, BCH",MYDFS,Isle of Man,,No,https://github.com/mydfs/blockchain,Yes,$1.0000,https://tokensale.mydfs.net,Ethereum,April 16th 2018 To May 7th 2018,,,"United States, China, Singapore",,"125,000,000",mydfs,https://icowatchlist.com/ico/mydfs
+"BTC, ETH",MIB,"Korea, Democratic People's Republic of",,No,,Yes,$0.5000,http://mibcoin.io/,Ethereum,,,,United States,,"1,000,000,000",mib-coin,https://icowatchlist.com/ico/mib-coin
+"BTC, ETH, USD, EUR",IC,Estonia,,No,https://github.com/INGOTCoin1,,$1.0000,https://www.ingotcoin.io/,Ethereum,May 1st 2018 To June 30th 2018,,,United States,,"120,000,000",ingot-coin,https://icowatchlist.com/ico/ingot-coin
+"BTC, ETH",METM,Australia,,Yes,https://github.com/MetaMorphPro,Yes,$0.0800,https://metamorph.pro,Ethereum,April 27th 2018 To June 27th 2018,,,United States,,"200,000,000",metamorph-pro,https://icowatchlist.com/ico/metamorph-pro
+"BTC, ETH, BCH",B21,Gibraltar,,No,,,$0.0000,https://www.b21.io,Ethereum,June 15th 2018 To July 14th 2018,,,United States,,"500,000,000",b21,https://icowatchlist.com/ico/b21
+"BTC, ETH, LTC",HYB,Italy,,No,https://github.com/HybridBetting/hybrid,Yes,$0.0000,https://www.hybridbetting.com/,Ethereum,April 3rd 2018 To June 8th 2018,,,United States,,,hybrid-betting,https://icowatchlist.com/ico/hybrid-betting
+ETH,ASk,Singapore,,No,https://github.com/allsparkchain,,$0.2330,http://allsparkchain.com/,Other,April 23rd 2018 To July 15th 2018,,,United States,,"300,000,000",allspark,https://icowatchlist.com/ico/allspark
+"BTC, ETH",Lamb,Singapore,,Yes,,Yes,$0.0100,http://www.lambda.im/en/index.html,Other,,,,United States,,"10,000,000,000",lambda,https://icowatchlist.com/ico/lambda
+ETH,TIP,Costa Rica,,No,https://github.com/TipBlockchain/,,$0.0500,https://tipblockchain.io/,Ethereum,July 13th 2018 To July 20th 2018,,,"United States, Canada, China, Iran (Islamic Republic of), Korea, Republic of, Sudan, Syrian Arab Republic",,"1,000,000,000",tip-blockchain,https://icowatchlist.com/ico/tip-blockchain
+"BTC, DASH, XRP, ETH, LTC, BCH",OSA,Latvia,,No,https://github.com/OSAdecentralized,,$0.1400,https://osadc.io/en/,Other,May 21st 2018 To June 21st 2018,,,United States,,"2,800,000,000",osa-dc,https://icowatchlist.com/ico/osa-dc
+"ETH, BCH, LTC, BTC",ARTX,Italy,,No,,,$0.0200,https://articlex.io,Ethereum,May 15th 2018 To May 31st 2018,,,United States,,"3,000,000,000",articlex,https://icowatchlist.com/ico/articlex
+ETH,IAM,Mauritius,,Yes,https://github.com/iameidentity,Yes,$0.0750,https://iame.io/,Ethereum,April 18th 2018 To May 20th 2018,,,United States,,,iame-identity,https://icowatchlist.com/ico/iame-identity
+"EUR, ETH, BTC",TRIL,Switzerland,,No,,,$0.7500,https://trilliant.io/,Ethereum,July 10th 2018 To August 10th 2018,,,United States,,"40,000,000",trilliant,https://icowatchlist.com/ico/trilliant
+ETH,UBC,United Arab Emirates,,No,https://github.com/ubcoin/ubcoin#links,Yes,$0.0450,https://ubcoin.io/,Ethereum,,,,United States,,"650,000,000",ubcoin-market,https://icowatchlist.com/ico/ubcoin-market
+"ETH, QKC",LV,Virgin Islands (British),,No,,,$0.0245,https://www.lendchain.io/indexEn.html#/,GXchain,,,,"United States, China",,"1,000,000,000",lendchain,https://icowatchlist.com/ico/lendchain
+ETH,IOTW,Hong Kong,,No,,Yes,$0.1200,https://iotw.io/,Ethereum,,,,United States,,"5,000,000,000",iotw,https://icowatchlist.com/ico/iotw
+"BTC, ETH, XRP",GRAM,United States,,No,,,$0.0857,https://lantah.com,Other,,,,United States,,"1,000,000,000",lantah,https://icowatchlist.com/ico/lantah
+"BTC, ETH",TPLAY,Belize,,No,https://github.com/TruePlayInfo,Yes,$0.4800,https://trueplay.io/?utm_source=icowatchlist,Ethereum,April 15th 2018 To April 30th 2018,,,"United States, Canada, China",,"70,000,000",trueplay,https://icowatchlist.com/ico/trueplay
+"BTC, ETH, LTC, BCH",EO,Estonia,,No,https://github.com/EOtrade,Yes,$0.2000,https://eo.trade,Ethereum,April 16th 2018 To June 29th 2018,,,United States,,"1,000,000,000",eotrade,https://icowatchlist.com/ico/eotrade
+,IMVR,United Kingdom,,No,,,$0.0200,https://immvr.se,Ethereum,June 19th 2018 To June 28th 2018,$0.00,,United States,,,immvrse,https://icowatchlist.com/ico/immvrse
+ETH,FYS,Singapore,,No,https://github.com/Fysical,,$0.0450,https://fysical.org/,Ethereum,,,,United States,,"400,000,000",fysical,https://icowatchlist.com/ico/fysical
+"BTC, ETH",WEIS,Singapore,,Yes,,Yes,$0.1000,https://www.weicrowd.com/,Ethereum,,,,United States,,"300,000,000",weicrowd,https://icowatchlist.com/ico/weicrowd
+ETH,PAVO,United States,,No,https://github.com/pavocoin/ERC20,,$1.0000,https://www.pavocoin.com/,Ethereum,,,,United States,,"200,000,000",pavocoin,https://icowatchlist.com/ico/pavocoin
+ETH,MIC,Netherlands,,No,,,$0.1600,http://denchmusic.io/,Ethereum,,,,United States,,"500,000,000",denchmusic,https://icowatchlist.com/ico/denchmusic
+ETH,VIVA,Bermuda,,No,https://github.com/viva-network,Yes,$0.0200,https://www.vivanetwork.org,Ethereum,,,,United States,,"4,000,000,000",viva,https://icowatchlist.com/ico/viva
+"BTC, ETH, USD",MDBLX,United States,,No,https://github.com/MedBlox/,Yes,$0.0010,https://medblox.io/,Ethereum,July 30th 2018 To August 18th 2018,,,United States,,"100,000,000,000",medblox,https://icowatchlist.com/ico/medblox
+"BTC, ETH",XCLP,Singapore,,No,https://github.com/chynge,Yes,$0.0500,https://www.chynge.net,Other,May 20th 2018 To June 27th 2018,,,"United States, China",,"800,000,000",chynge,https://icowatchlist.com/ico/chynge
+ETH,PPD,Bahamas,,No,https://github.com/PingPaid/main,Yes,$0.4365,https://www.pingpaid.com,Ethereum,,,,United States,,"75,000,000",pingpaid,https://icowatchlist.com/ico/pingpaid
+ETH,BXY,Armenia,,No,,,$0.0410,https://beaxy.com/,Ethereum,,,,United States,,"1,000,000,000",beaxy-exchange,https://icowatchlist.com/ico/beaxy-exchange
+"BTC, ETH, XMR",CCH,Czech Republic,,No,https://github.com/citicashio/citicash,Yes,$0.1500,https://www.citicash.io/,Other,,,,United States,,"1,000,000,000",citicash,https://icowatchlist.com/ico/citicash
+BTC,TKD,Nigeria,,Yes,,Yes,$0.0007,https://www.techrodholdings.com,Waves,,,,United States,,"20,000,000,000",techrod,https://icowatchlist.com/ico/techrod
+"BTC, ETH",INV,United Kingdom,,No,,,$0.1700,https://investinbrokers.com,Ethereum,May 26th 2018 To July 15th 2018,,,United States,,"500,000,000",invest-in-brokers,https://icowatchlist.com/ico/invest-in-brokers
+ETH,LXT,Estonia,,No,,,$0.4150,https://lexit.co,Ethereum,,,,United States,,"160,000,000",lexit,https://icowatchlist.com/ico/lexit
+"BTC, ETH, LTC",UBEX,Switzerland,,No,https://github.com/ubex-ai,Yes,$0.0070,https://www.ubex.com/,Ethereum,,$0.00,-93.50%,United States,"$6,850,000","4,000,000,000",ubex,https://icowatchlist.com/ico/ubex
+"BTC, ETH, LTC, BCH, DASH, USD",TUT,Estonia,,Yes,https://github.com/tutellus-io,Yes,$0.0500,https://tutellus.cryptonomos.com/,Other,May 10th 2018 To June 11th 2018,,,United States,,"1,500,000,000",tutellus,https://icowatchlist.com/ico/tutellus
+"BTC, ETH, LTC, BCH, EUR",TAB,Malta,,No,,,$0.0100,https://theaccountingblockchain.io/,Ethereum,,,,United States,,"22,000,000,000",accounting-blockchain,https://icowatchlist.com/ico/accounting-blockchain
+ETH,GBO,Singapore,,No,,,$0.2500,https://gabrotech.io,Ethereum,June 1st 2018 To July 30th 2018,,,United States,,"1,000,000,000",gabro,https://icowatchlist.com/ico/gabro
+"BTC, ETH, LTC, USD, EUR",VOCO,Lithuania,,Yes,,Yes,$0.9000,https://provoco.me/,Ethereum,February 21st 2018 To March 31st 2018,,,United States,,"100,000,000",provoco,https://icowatchlist.com/ico/provoco
+ETH,RAWG,Cayman Islands,,No,,,$0.0100,https://token.rawg.io/,Ethereum,,,,United States,,"1,000,000,000",rawg,https://icowatchlist.com/ico/rawg
+"BTC, ETH",VAD,France,,No,https://github.com/Varanida,Yes,$0.0840,https://www.varanida.com,Ethereum,June 25th 2018 To August 15th 2018,,,United States,,"1,000,000,000",varanida,https://icowatchlist.com/ico/varanida
+"ETH, USD",AFI,Hong Kong,,No,https://github.com/AlchemyFinance/AFI-token,,$0.5000,https://alchemycoin.io/,Ethereum,July 16th 2018 To August 27th 2018,,,United States,,"125,000,000",alchemy-coin,https://icowatchlist.com/ico/alchemy-coin
+"ETH, BTC, LTC, USD, EUR",MTC,Netherlands,,Yes,https://github.com/MultivenGroup,Yes,$0.6200,https://www.multiven.io/,Ethereum,May 1st 2018 To May 31st 2018,,,United States,,"2,000,000,000",multiven-mom,https://icowatchlist.com/ico/multiven-mom
+"BTC, ETH",AQUA,Finland,,No,,Yes,$0.1500,https://www.sansoxico.com/,Waves,August 27th 2018 To September 10th 2018,,,United States,,"500,000,000",sansox,https://icowatchlist.com/ico/sansox
+"BTC, ETH, LTC, USD, BCH, DASH",BDP,Spain,,No,,,$1.1600,https://bidipass.org,Ethereum,March 26th 2018 To April 19th 2018,,,United States,,,bidipass,https://icowatchlist.com/ico/bidipass
+,,,,,,,,,,,,,,,,utemis,https://icowatchlist.com/ico/utemis
+ETH,CNVT,United States,,No,,Yes,$0.2700,https://conventment.com,Ethereum,August 30th 2018 To September 22nd 2018,,,United States,,"100,000,000",conventment,https://icowatchlist.com/ico/conventment
+"BTC, ETH, LTC",ZCN,United Kingdom,,No,https://github.com/ZichainEcosystem/ZCN-Zichain-ERC-20,Yes,$0.0800,http://www.zichain.io?utm_source=icowatchlist,Ethereum,April 2nd 2018 To August 31st 2018,,,United States,,"703,125,000",zichain,https://icowatchlist.com/ico/zichain
+"BTC, ETH",RSC,Malta,,No,,,$0.2600,https://www.soccercoin.eu/,NEO,August 16th 2018 To August 25th 2018,,,United States,,"350,000,000",ronaldinho-soccer-coin,https://icowatchlist.com/ico/ronaldinho-soccer-coin
+"BTC, ETH, LTC, BCH",PERL,Australia,,Yes,,,$0.1500,https://perlin.global,Ethereum,September 10th 2018 To September 28th 2018,,,United States,,"200,000,000",perlin,https://icowatchlist.com/ico/perlin
+ETH,PCX,Singapore,,No,,,$0.0050,https://www.powerchain.in/,Ethereum,September 19th 2018 To September 20th 2018,,,United States,,"10,000,000,000",powerchain,https://icowatchlist.com/ico/powerchain
+ETH,CCET,Singapore,,No,,,$0.0390,https://www.ccetproject.com,Ethereum,,,,United States,,"2,000,000,000",ccet-project,https://icowatchlist.com/ico/ccet-project
+ETH,OHC,United States,,No,https://github.com/100tokens/crowdsale,,$0.2500,https://100tokens.com/,Ethereum,April 17th 2018 To May 10th 2018,,,United States,,"1,000,000,000",100tokens,https://icowatchlist.com/ico/100tokens
+ETH,SVP,Mauritius,,No,,,$0.0600,https://svper.com/,Ethereum,,,,United States,,"1,000,000,000",svper,https://icowatchlist.com/ico/svper
+ETH,VBEO,Bulgaria,,No,https://github.com/vibeo,,$0.0500,https://vibeo.io/,Ethereum,,,,United States,,"950,000,000",vibeo,https://icowatchlist.com/ico/vibeo
+ETH,SAM,Switzerland,,No,,,$0.4700,https://sambanx.com/,Ethereum,,,,United States,,"100,000,000",sambanx,https://icowatchlist.com/ico/sambanx
+ETH,WZR,United States,,No,,,$0.0500,https://wyzerr.io/,Ethereum,,,,United States,,"1,000,000,000",wyzerr,https://icowatchlist.com/ico/wyzerr
+"BTC, ETH",DNC,Hong Kong,,No,,,$0.0100,https://hk.dona-partners.com/,Other,May 22nd 2018 To August 15th 2018,,,United States,,"3,700,000,000",dona,https://icowatchlist.com/ico/dona
+ETH,CLB,Singapore,,No,,Yes,$0.0170,https://www.cloudbric.io/,Ethereum,August 23rd 2018 To September 22nd 2018,,,United States,,"1,000,000,000",cloudbric,https://icowatchlist.com/ico/cloudbric
+,GIZA,United Kingdom,,No,https://github.com/GizaDevice,Yes,$1.0000,https://www.gizadevice.com,Ethereum,January 8th 2018 To February 8th 2018,,,United States,,"36,800,000",gizadevice,https://icowatchlist.com/ico/gizadevice
+ETH,CTKN,United Kingdom,,Yes,,,$0.2000,https://curatoken.curaizon.com,Ethereum,June 1st 2018 To June 8th 2018,,,United States,,"500,000,000",curaizon,https://icowatchlist.com/ico/curaizon
+ETH,8BT,United States,,No,https://github.com/8CircuitStudios,Yes,$1.0000,https://www.8circuitstudios.io,Ethereum,September 30th 2018 To October 1st 2018,,,United States,,"100,000,000",8-circuit-studios-wave-2,https://icowatchlist.com/ico/8-circuit-studios-wave-2
+"BTC, ETH, LTC",BC,Singapore,,No,https://github.com/boomstarternetwork,Yes,$0.8000,https://boomstarter.network/,Ethereum,,,,United States,,"36,000,000",boomstarternetwork,https://icowatchlist.com/ico/boomstarternetwork
+"BTC, ETH",GNY,Jersey,,No,,Yes,$0.1000,https://www.gny.io/,Ethereum,,,,United States,,"400,000,000",gny,https://icowatchlist.com/ico/gny
+"BTC, ETH, LTC, BCH",RGL,Marshall Islands,,Yes,https://github.com/argylecoin,Yes,$10.0000,https://www.argylecoin.io/,Ethereum,August 27th 2018 To September 16th 2018,,,"United States, Japan, Korea, Democratic People's Republic of, Korea, Republic of",,"100,000,000",argyle-coin,https://icowatchlist.com/ico/argyle-coin
+"BTC, ETH",MET,Anguilla,"$32,000,000",No,,,$0.6000,https://www.mineredge.io/,Ethereum,August 1st 2018 To August 20th 2018,,,"United States, Canada","$1,190,000","60,000,000",miner-edge,https://icowatchlist.com/ico/miner-edge
+"BTC, ETH, USD, EUR, BCH, LTC, DASH, ETC, XRP, XMR, ZEC, XLM, CNY, QKC, XEM",KGT,Ireland,,Yes,,Yes,$1.0000,https://www.kamagames.io/,Ethereum,September 24th 2018 To October 8th 2018,,,", Algeria, Bangladesh, Bolivia, Ecuador, Macedonia, Morocco, Pakistan, Qatar, Vanuatu, Vietnam",,"25,000,000",kamagames,https://icowatchlist.com/ico/kamagames
+ETH,OGO,United States,"$25,000,000",No,,,$0.0000,https://vogov.io/,Ethereum,August 21st 2018 To August 31st 2018,,,"United States, Algeria, Bolivia, China, Cuba, Ecuador, Indonesia, Iran (Islamic Republic of), Ivory Coast, Korea, Republic of, Lebanon, Morocco, Myanmar, Namibia, Nepal, Pakistan, Singapore, Syrian Arab Republic, Vietnam",,"75,000,000",vogov,https://icowatchlist.com/ico/vogov
+ETH,JUL,Belarus,,No,https://github.com/jullar,,$0.1000,https://jullar.io,Ethereum,,,,United States,,"1,000,000,000",jullar,https://icowatchlist.com/ico/jullar
+"BTC, ETH, LTC, BCH, DASH, XRP",TASH,Virgin Islands (British),,No,,Yes,$0.0100,https://www.smarttripplatform.io,Ethereum,April 16th 2018 To June 10th 2018,,,United States,,"5,000,000,000",smart-trip-platform,https://icowatchlist.com/ico/smart-trip-platform
+ETH,M2O,Singapore,,No,,,$1.6800,https://mileageto.com/?utm_source=listing&utm_medium=crypto_p&utm_campaign=icowatchlist,Ethereum,July 31st 2018 To August 17th 2018,,,United States,,"35,000,000,000",m2o,https://icowatchlist.com/ico/m2o
+"BTC, ETH, USD",PLA,Australia,,Yes,https://github.com/TeamPlayUp/PlayChip,Yes,$0.0100,https://www.playchip.global/,Other,June 1st 2018 To October 31st 2018,,,United States,,"50,000,000,000",playchip,https://icowatchlist.com/ico/playchip
+"BTC, ETH",LUD,United States,,No,https://github.com/ludcoin/LucoinICO,,$0.2500,https://www.ludcoin.com,Ethereum,,,,United States,,"800,000,000",ludcoin,https://icowatchlist.com/ico/ludcoin
+"BTC, ETH, LTC",BLCK,Estonia,,No,https://github.com/BlackInsurance,Yes,$0.2000,https://www.black.insure,Ethereum,October 1st 2018 To October 31st 2018,,,United States,,"471,082,089",black-insurance,https://icowatchlist.com/ico/black-insurance
+"ETH, BTC, USD, EUR, ETC",YOUtoken,Switzerland,,Yes,https://github.com/revenyou,,$0.0117,https://www.revenyou.io/,Ethereum,,,,United States,,"6,425,000,000",revenyou,https://icowatchlist.com/ico/revenyou
+"BTC, ETH, LTC, BCH, DASH",TCD,Russian Federation,,No,,,$1.0000,https://tkeycoin.com/ico/en/,Blockchain,,,,United States,,"100,000,000",tkeycoin,https://icowatchlist.com/ico/tkeycoin
+"BTC, ETH, LTC, XRP",XRK,Gibraltar,,Yes,https://github.com/RecordsKeeper,Yes,$0.2500,https://www.recordskeeper.co/,Other,May 24th 2018 To September 23rd 2018,,,United States,,"300,000,000",recordskeeper,https://icowatchlist.com/ico/recordskeeper
+"BTC, ETH, USD",GOT,Singapore,,No,,Yes,$0.1000,https://goeureka.io/,Ethereum,July 5th 2018 To September 9th 2018,,,United States,,"1,000,000,000",goeureka,https://icowatchlist.com/ico/goeureka
+BTC,ARIA,France,,No,,,$0.0100,https://arianee.org,Ethereum,,,,United States,,"273,853,125",arianee,https://icowatchlist.com/ico/arianee
+,,,,,,,,,,,,,,,,one1,https://icowatchlist.com/ico/one1
+"BTC, ETH, USD, XEM",PLEO,Georgia,,No,,,$0.5000,https://empleos.io,NEM,October 1st 2018 To October 22nd 2018,,,United States,,"140,000,000",empleosio,https://icowatchlist.com/ico/empleosio
+,,,,,,,,,,,,,,,,aiar,https://icowatchlist.com/ico/aiar
+"BTC, ETH, LTC, USD, DASH",VRF,Russian Federation,,No,https://github.com/verifier1,Yes,$0.1000,https://verifier.org/en/,Ethereum,January 2nd 2018 To July 2nd 2018,,,United States,,"690,000,000",verifier,https://icowatchlist.com/ico/verifier
+ETH,MFX,Saint Kitts and Nevis,,Yes,https://github.com/mfchain,Yes,$0.0824,https://mfchain.com/,Ethereum,May 5th 2018 To July 31st 2018,,,United States,,"521,000,000",modern-finance-chain,https://icowatchlist.com/ico/modern-finance-chain
+"BTC, ETH",NHCT,Cayman Islands,,No,,Yes,$0.0320,https://nhct.io,Ethereum,October 1st 2018 To October 31st 2018,,,United States,,"1,000,000,000",nhct,https://icowatchlist.com/ico/nhct
+"BTC, ETH, LTC",TACO,Estonia,,No,https://github.com/tanibox,Yes,$0.0160,https://tanibox.com,Other,June 25th 2018 To July 15th 2018,,,United States,,"1,000,000,000",tanibox,https://icowatchlist.com/ico/tanibox
+"BTC, ETH, BCH, DASH, XRP, XMR, LTC",AXIS,Cayman Islands,,No,,Yes,$0.1500,https://www.laneaxis.io/,Ethereum,June 1st 2018 To September 20th 2018,,,United States,,"500,000,000",laneaxis,https://icowatchlist.com/ico/laneaxis
+,,,,,,,,,,,,,,,,geneos,https://icowatchlist.com/ico/geneos
+ETH,VLX,United Kingdom,,No,https://github.com/verv-vlux/,Yes,$0.6800,https://vlux.io/,Ethereum,April 4th 2018 To May 28th 2018,,,"United States, China",,"100,000,000",verv-vlux,https://icowatchlist.com/ico/verv-vlux
+"BTC, ETH",TXO,Estonia,,No,https://github.com/treonio/TXOtoken,,$0.1135,https://www.treon.io/,Ethereum,May 21st 2018 To June 7th 2018,,,United States,,"429,000,000",treon,https://icowatchlist.com/ico/treon
+"BTC, ETH, USD, EUR, BCH, LTC",DOM,Netherlands,,Yes,,Yes,$0.1700,https://dominium.me/referral/2f6532e4,Other,August 15th 2018 To August 31st 2018,,,United States,,"1,000,000,000",dominium,https://icowatchlist.com/ico/dominium
+"BTC, ETH, LTC",,South Africa,,No,,,$0.0000,https://bithemoth.com/,Ethereum,July 1st 2018 To July 31st 2018,,,United States,,,bithemoth,https://icowatchlist.com/ico/bithemoth
+ETH,VT,Mauritius,,No,,,$0.0500,http://viteapp.co/,Ethereum,November 1st 2018 To November 30th 2018,,,United States,,"200,000,000",vite,https://icowatchlist.com/ico/vite
+"ETH, BTC",REB,Singapore,,No,https://github.com/REBGLOSG,Yes,$0.0340,https://www.rebglo.com,Ethereum,September 1st 2018 To November 30th 2018,,,United States,,"10,000,000,000",rebglo,https://icowatchlist.com/ico/rebglo
+ETH,GAX,Cayman Islands,,No,https://github.com/gaxcoin,Yes,$0.1100,https://gaxcoin.com/,Ethereum,,,,United States,,"400,000,000",gaxcoin,https://icowatchlist.com/ico/gaxcoin
+"BTC, ETH",DGO,Singapore,,No,,,$0.1400,https://dinngo.co,Ethereum,,,,United States,,"200,000",dinngo,https://icowatchlist.com/ico/dinngo
+"BTC, ETH, DASH, BCH, LTC, ETC, XRP",INX,Estonia,,No,https://github.com/innovaminex/,Yes,$0.5000,https://innovaminex.com,Other,,,,United States,,"300,000,000",innovaminex,https://icowatchlist.com/ico/innovaminex
+"BTC, ETH",VRA,Cayman Islands,,Yes,https://github.com/verasitytech,Yes,$0.0075,https://verasity.io/airdrop,Ethereum,May 1st 2018 To May 31st 2018,,,"United States, Cayman Islands, Saudi Arabia","$25,540,000","12,491,500,000",verasity,https://icowatchlist.com/ico/verasity
+ETH,GZB,United Kingdom,,No,https://github.com/Gigzi,,$0.6000,https://gigzi.com,Ethereum,,,,United States,,"1,000,000,000",gigzi,https://icowatchlist.com/ico/gigzi
+"BTC, ETH, USD, EUR",MOBU,South Africa,,No,,,$0.0000,https://www.mobu.io/,Ethereum,September 1st 2018 To September 15th 2018,,,United States,,"350,000,000",mobu,https://icowatchlist.com/ico/mobu
+ETH,RECSH,Germany,,No,,,$0.0000,http://reuse.cash/,Blockchain,,,,United States,,"10,000,000,000",reuse-cash,https://icowatchlist.com/ico/reuse-cash
+"ETH, BTC",HUS,Estonia,,No,https://github.com/hussy-io,,$0.3600,https://hussy.io/,Ethereum,,,,United States,,"100,000,000",hussy-io,https://icowatchlist.com/ico/hussy-io
+ETH,KEYO,Singapore,,Yes,,Yes,$0.0500,https://www.keypascoid.io,Ethereum,,,,United States,,"2,000,000,000",superwallet,https://icowatchlist.com/ico/superwallet
+ETH,BTMG,Poland,"$15,000,000",No,https://github.com/bitcademyfb,,$0.0380,https://bitcademy.io/,Ethereum,December 1st 2018 To December 31st 2018,,,"United States, China",,"1,000,000,000",football-bitcademy,https://icowatchlist.com/ico/football-bitcademy
+"BTC, ETH",BUY,United States,,Yes,https://github.com/Buying-com,,$0.0700,https://buying.com/,Ethereum,October 1st 2018 To November 30th 2018,,,United States,,"1,000,000,000",buyingcom,https://icowatchlist.com/ico/buyingcom
+ETH,PANX,Austria,,No,,,$0.0310,https://pantercon.com/en,Ethereum,November 1st 2018 To November 30th 2018,,,United States,,"1,000,000,000",pantercon,https://icowatchlist.com/ico/pantercon
+"BTC, ETH",LYNK,Netherlands,,No,https://github.com/LynkedWorld,Yes,$0.3500,https://tokensale.lynked.world/,Ethereum,November 15th 2018 To November 15th 2018,,,"United States, Syrian Arab Republic",,"200,000,000",lynkedworld,https://icowatchlist.com/ico/lynkedworld
+"BTC, ETH, BCH, LTC, DASH, ETC",RF,Belize,,No,,Yes,$0.2000,https://raidofinance.com/?utm_source=icowatchlist,Ethereum,November 15th 2018 To December 15th 2018,,,United States,,"86,250,000",raido-financial,https://icowatchlist.com/ico/raido-financial
+"BTC, ETH, LTC",BCV,Australia,,No,,Yes,$0.3700,http://bluechipvision.com/,Ethereum,November 28th 2018 To November 30th 2018,,,United States,,"473,392,856",blue-chip-vision,https://icowatchlist.com/ico/blue-chip-vision
+"BTC, ETH, XLM",PRY,Switzerland,,No,,,$0.1000,https://www.primary.io,Other,August 1st 2018 To August 31st 2018,,,United States,,,primary,https://icowatchlist.com/ico/primary
+"BTC, ETH, USD, XLM",WVR,Malta,,No,,Yes,$0.1000,https://weave.wearvr.com/?utm_source=icowatchlist&utm_medium=paid&utm_campaign=silverhome,Stellar,November 1st 2018 To December 31st 2018,,,United States,,"960,000,000",weave,https://icowatchlist.com/ico/weave
+"BTC, ETH, BCH, LTC",VANM,Germany,,No,https://github.com/VANMofficial,,$0.0880,https://www.vanm.io,Ethereum,November 17th 2018 To December 31st 2018,,,United States,,"240,000,000",vanm,https://icowatchlist.com/ico/vanm
+ETH,NACL,United States,,No,,Yes,$1.0000,https://saltmine.io,Ethereum,,,,United States,,,saltmine,https://icowatchlist.com/ico/saltmine
