@@ -259,7 +259,7 @@ for url in urls:
     website_link = get_webpage_link(htmlbody)
     ico_results.append(('Github URL', github_link))
     ico_results.append(('Official Website', website_link))
-    results.append(ico_results)
+    
 
     git_feature = gitfeature_html(github_link)
     git_feature_list = []
