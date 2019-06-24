@@ -1,6 +1,6 @@
 import json
 import numpy as np
-import requests, ConnectionError,
+import requests
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 from operator import itemgetter
@@ -13,6 +13,8 @@ FULLDATA_FILE = '/users/eric/PycharmProjects/testico/fulldata.csv'
 NUMERICAL_DATA_FILE = '/users/eric/PycharmProjects/testico/full_num.csv'
 TEXT_DATA_FILE = '/users/eric/PycharmProjects/testico/textfeature_dataframe.csv'
 URL_COPY_FILEPATH = '/users/eric/PycharmProjects/testico/ico_urls copy.txt'
+FULLDATA_PLUS_GIT = '/users/eric/PycharmProjects/testico/fulldata_plus_git.csv'
+
 
 
 def repolink_extract(url):
@@ -259,7 +261,7 @@ for url in urls:
     website_link = get_webpage_link(htmlbody)
     ico_results.append(('Github URL', github_link))
     ico_results.append(('Official Website', website_link))
-    
+
 
     git_feature = gitfeature_html(github_link)
     git_feature_list = []
@@ -282,3 +284,75 @@ for idx, url in enumerate(urls):
 
 df = pd.DataFrame(final_results)
 # df.to_csv('token_with_github_feature.csv')
+scraped_data = pd.read_csv(TOKEN_GIT_FEATURE_FILE)
+with open(RAW_DATA_FILEPATH, 'r') as f:
+    api_data = json.load(f)
+api_data = api_data['ico']['finished']
+api_df = pd.DataFrame(api_data)
+
+api_df.rename(columns={'all_time_roi': 'ROI', 'coin_symbol': 'Coin Symbol', 'icowatchlist_url': 'url'},
+              inplace=True)
+cols_to_use = api_df.columns.difference(scraped_data.columns)
+
+fulldata_plus_git = pd.merge(scraped_data, api_df[cols_to_use], left_index=True, right_index=True, how='outer')
+fulldata_plus_git.to_csv('fulldata_plus_git.csv', index=False)
+
+
+# DATA PROCESSING FROM HERE
+
+full = pd.read_csv(FULLDATA_PLUS_GIT)
+full.dropna(subset=['ROI'], inplace=True)
+full = full.drop('Unnamed: 0', axis=1)
+
+full_num = full.drop(['Coin Symbol', 'Accepted Currencies', 'Have Prototype?', 'Pre-ICO Dates',
+                      'name', 'url', 'image', 'timezone', 'description', 'website_link',
+                      'Funding Goal', 'Total Tokens', 'Price Now', 'Funds in Escrow?',
+                      'Restricted Countries', 'Total Raised'],
+                     axis=1)
+full_num['Initial Token Price'] = full_num['Initial Token Price'].replace(['\$'], '', regex=True)
+full_num['Initial Token Price'] = full_num['Initial Token Price'].str.strip()
+full_num['Initial Token Price'] = pd.to_numeric(full_num['Initial Token Price'].str.replace(',', ''), errors='coerce')
+full_num['price_usd'] = pd.to_numeric(full_num['price_usd'].str.replace(',', ''), errors='coerce')
+#
+
+full_num['ROI'] = full_num['ROI'].str.replace(',', '')
+full_num['ROI'] = full_num['ROI'].str.rstrip('%').astype('float')/100
+#
+full_num['end_time'] = pd.to_datetime(full_num['end_time'])
+full_num['start_time'] = pd.to_datetime(full_num['start_time'])
+full_num['Total days'] = (full_num['end_time'] - full_num['start_time']).dt.days
+full_num = full_num.drop(['end_time', 'start_time'], axis=1)
+full_num = full_num[['ROI', 'Country', 'Initial Token Price', 'Platform',
+                     'price_usd', 'Total days','Github URL']]
+
+full_num = pd.get_dummies(full_num, columns=['Country', 'Platform'], drop_first=True)
+
+
+#full_num.to_csv(NUMERICAL_DATA_PLUS_GIT_FILE)
+#
+#
+# # minmax = preprocessing.MinMaxScaler()
+# # full_scaled = minmax.fit_transform(full_num)
+# # scaleddata = pd.DataFrame(full_scaled)
+#
+def binarize_roi(roi):
+    if roi > 0:
+        return 1
+    else:
+        return 0
+
+
+def binarized_github(git):
+    if pd.isna(git):
+        return 0
+    else:
+        return 1
+
+full_num['binarize_Git'] = full_num['Github URL'].apply(binarized_github)
+full_num['binary_ROI'] = full_num['ROI'].apply(binarize_roi)
+
+
+full_num = full_num.drop('Github URL', axis=1)
+full_num = full_num.drop('ROI', axis=1)
+full_num.to_csv('num_plus_git.csv', index=False)
+
