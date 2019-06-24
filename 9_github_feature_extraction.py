@@ -79,6 +79,12 @@ def repolink_extract_paginator(current_url):
 
 
 def gitfeature_extract(partial_repolink):
+    gitfeature_empty = {
+        'watchers': 0,
+        'stars': 0,
+        'forks': 0,
+        'commits': 0,
+        'branches': 0}
     a = 'https://github.com'
     full_repolink = '{}{}'.format(a, partial_repolink)
     try:
@@ -97,46 +103,46 @@ def gitfeature_extract(partial_repolink):
     otherfeature_html = githtmltxt.find_all(
         'span', class_="num text-emphasized")
     if len(otherfeature_html) == 0:
-        gitfeature = {
-            'watchers': 0,
-            'stars': 0,
-            'forks': 0,
-            'commits': 0,
-            'branches': 0}
-        return gitfeature
+
+        return gitfeature_empty
     else:
+
         watch_html = githtmltxt.find_all(
             'a',
             class_="social-count",
             href='{}{}'.format(partial_repolink, '/watchers')
         )
-        watch = watch_html[0].text.strip().replace(',', '')
-        stars_html = githtmltxt.find_all(
-            'a',
-            class_="social-count",
-            href='{}{}'.format(partial_repolink, '/stargazers')
-        )
-        stars = stars_html[0].text.strip().replace(',', '')
-        forks_html = githtmltxt.find_all(
-            'a',
-            href='{}{}'.format(partial_repolink, '/network/members'),
-            class_="social-count"
-        )
+        if len(watch_html) == 0:
+            return gitfeature_empty
+        else:
 
-        forks = forks_html[0].text.strip().replace(',', '')
+            watch = watch_html[0].text.strip().replace(',', '')
+            stars_html = githtmltxt.find_all(
+                'a',
+                class_="social-count",
+                href='{}{}'.format(partial_repolink, '/stargazers')
+            )
+            stars = stars_html[0].text.strip().replace(',', '')
+            forks_html = githtmltxt.find_all(
+                'a',
+                href='{}{}'.format(partial_repolink, '/network/members'),
+                class_="social-count"
+            )
 
-        otherfeature_html = githtmltxt.find_all(
-            'span', class_="num text-emphasized")
-        commits = otherfeature_html[0].text.strip().replace(',', '')
-        branches = otherfeature_html[1].text.strip().replace(',', '')
-        releases = otherfeature_html[2].text.strip().replace(',', '')
-        gitfeature = {
-            'watchers': watch,
-            'stars': stars,
-            'forks': forks,
-            'commits': commits,
-            'branches': branches}
-        return gitfeature
+            forks = forks_html[0].text.strip().replace(',', '')
+
+            otherfeature_html = githtmltxt.find_all(
+                'span', class_="num text-emphasized")
+            commits = otherfeature_html[0].text.strip().replace(',', '')
+            branches = otherfeature_html[1].text.strip().replace(',', '')
+            releases = otherfeature_html[2].text.strip().replace(',', '')
+            gitfeature = {
+                'watchers': watch,
+                'stars': stars,
+                'forks': forks,
+                'commits': commits,
+                'branches': branches}
+            return gitfeature
 
 
 def repofeature_extract_paginator(current_url):
@@ -275,4 +281,4 @@ for idx, url in enumerate(urls):
     final_results[idx]['url'] = url
 
 df = pd.DataFrame(final_results)
-df.to_csv('token_with_github_feature.csv')
+# df.to_csv('token_with_github_feature.csv')
